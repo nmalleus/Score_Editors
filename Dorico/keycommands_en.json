@@ -1,0 +1,368 @@
+{
+	"common" : {
+		"contexts" : [
+			
+			{
+				"context" : "kGlobal",
+				"shortcuts" : [
+					
+					{
+						"Edit.CalculateHarpPedal" : [ "Ctrl+H" ]
+					},
+					
+					{
+						"Edit.ChangeVoiceToDownstem1" : [ "Alt+Shift+É" ]
+					},
+					
+					{
+						"Edit.ChangeVoiceToUpstem1" : [ "Alt+Shift+˛" ]
+					},
+					
+					{
+						"Edit.CreateFannedBeamAccelThreeLines" : [ "$" ]
+					},
+					
+					{
+						"Edit.PropagateProperties" : [ "Ctrl+Shift+P" ]
+					},
+					
+					{
+						"Edit.SetGraphicalEditMode" : [ "Ctrl+Alt+Shift+G" ]
+					},
+					
+					{
+						"Edit.SetNoteSpacingEditMode" : [ "Ctrl+Alt+Shift+J" ]
+					},
+					
+					{
+						"Edit.SetStaffSpacingEditMode" : [ "Ctrl+Alt+Shift+K" ]
+					},
+					
+					{
+						"Edit.SingleNoteTremoloOneStroke" : [ "Ctrl+Num+4" ]
+					},
+					
+					{
+						"Edit.SingleNoteTremoloThreeStrokes" : [ "Ctrl+Num+6" ]
+					},
+					
+					{
+						"Edit.SingleNoteTremoloTwoStrokes" : [ "Ctrl+Num+5" ]
+					},
+					
+					{
+						"Edit.TransposeSelection" : [ "T" ]
+					},
+					
+					{
+						"Engrave.ClearLayoutHorizontalSpacingAdjustments?SpacingAdjustmentRemovalType=kLayout" : [ "Ctrl+Alt+Shift+N" ]
+					},
+					
+					{
+						"Engrave.ClearLayoutVerticalSpacingAdjustments?SpacingAdjustmentRemovalType=kLayout" : [ "Ctrl+Alt+Shift+S" ]
+					},
+					
+					{
+						"Filter.Dynamics" : [ "Alt+Shift+D" ]
+					},
+					
+					{
+						"Filter.Text" : [ "Alt+Shift+X" ]
+					},
+					
+					{
+						"Filter.VoiceDownstem1" : [ "Ctrl+Alt+Shift+É" ]
+					},
+					
+					{
+						"Filter.VoiceUpstem1" : [ "Ctrl+Alt+Shift+˛" ]
+					},
+					
+					{
+						"Note Input.Set Accidental=Flat" : [ "Num+9" ]
+					},
+					
+					{
+						"Note Input.Set Accidental=Natural" : [ "Num+7" ]
+					},
+					
+					{
+						"Note Input.Set Accidental=Sharp" : [ "Num+8" ]
+					},
+					
+					{
+						"Note Input.Set Note Duration=1/16 note" : [ "Num+2" ]
+					},
+					
+					{
+						"Note Input.Set Note Duration=1/2 note" : [ "Num+5" ]
+					},
+					
+					{
+						"Note Input.Set Note Duration=1/32 note" : [ "Num+1" ]
+					},
+					
+					{
+						"Note Input.Set Note Duration=1/4 note" : [ "Num+4" ]
+					},
+					
+					{
+						"Note Input.Set Note Duration=1/8 note" : [ "Num+3" ]
+					},
+					
+					{
+						"Note Input.Set Note Duration=Whole note" : [ "Num+6" ]
+					},
+					
+					{
+						"Page.LockFrame" : [ "Ctrl+Alt+Shift+L" ]
+					},
+					
+					{
+						"Page.LockSystem" : [ "Ctrl+Alt+Shift+P" ]
+					},
+					
+					{
+						"Page.MakeIntoFrame" : [ "Ctrl+Alt+Shift+O" ]
+					},
+					
+					{
+						"Page.MakeIntoSystem" : [ "Ctrl+Alt+Shift+I" ]
+					},
+					
+					{
+						"Window.ShowEngraveModePanel?SpecialEditModeType=true" : [ ";" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kSetupMode" : [ "Ctrl+&", "DELETE:Ctrl+1" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kWriteMode" : [ "Ctrl+É", "DELETE:Ctrl+2" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kPrintMode" : [ "Ctrl+(", "DELETE:Ctrl+5", "DELETE:Ctrl+P" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kPlayMode" : [ "Ctrl+'", "DELETE:Ctrl+4" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kEngraveMode" : [ "Ctrl+\"", "DELETE:Ctrl+3" ]
+					},
+					
+					{
+						"Window.SwitchLayoutAspectType?LayoutAspectType=kGalleyViewAspect" : [ "%", "DELETE:Ctrl+Alt+2" ]
+					},
+					
+					{
+						"Window.SwitchLayoutAspectType?LayoutAspectType=kPageViewAspect" : [ "Μ", "DELETE:Ctrl+Alt+1" ]
+					},
+					
+					{
+						"Window.ShowBottomPanel?=true" : [ "," ]
+					},
+					
+					{
+						"Window.NextLayout" : [ "W", "DELETE:Shift+Alt+]" ]
+					},
+					
+					{
+						"Window.PreviousLayout" : [ "Shift+W", "DELETE:Shift+Alt+[" ]
+					},
+					
+					{
+						"Window.ToggleScoreAndPartLayout" : [ "DELETE:W" ]
+					},
+					
+					{
+						"Play.StartOrStop?PlayFromLocation=kPlayhead" : [ "DELETE:Enter" ]
+					},
+					
+					{
+						"Play.ShowPlaybackOptions" : [ "DELETE:Ctrl+Shift+P" ]
+					}
+				]
+			},
+			
+			{
+				"context" : "kStepTimeInput",
+				"shortcuts" : [
+					
+					{
+						"NoteInput.MoveDownBottom" : [ "DELETE:Ctrl+Down" ]
+					},
+					
+					{
+						"NoteInput.MoveUpTop" : [ "DELETE:Ctrl+Up" ]
+					},
+					
+					{
+						"NoteInput.EndTupletRun" : [ "DELETE::" ]
+					}
+				]
+			},
+			
+			{
+				"context" : "kEngraveMode",
+				"shortcuts" : [
+					
+					{
+						"Page.MoveBarsToNextSystem" : [ "DELETE:." ]
+					},
+					
+					{
+						"Page.MoveBarsToPreviousSystem" : [ "DELETE:," ]
+					}
+				]
+			},
+			
+			{
+				"context" : "kWriteMode",
+				"shortcuts" : [
+					
+					{
+						"NoteInput.OctaveDown" : [ "Ctrl+Down" ]
+					},
+					
+					{
+						"NoteInput.OctaveUp" : [ "Ctrl+Up" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kQuaver" : [ "Ctrl+Num+3" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kSemiquaver" : [ "Ctrl+Num+2" ]
+					},
+					
+					{
+						"NoteInput.Enter" : [ "Num+Enter" ]
+					},
+					
+					{
+						"NoteInput.SetArticulation?Value=kAccent" : [ "Num+/", "DELETE:[" ]
+					},
+					
+					{
+						"NoteInput.SetArticulation?Value=kStaccato" : [ "Num+*", "DELETE:]" ]
+					},
+					
+					{
+						"NoteInput.SetArticulation?Value=kTenuto" : [ "Num+-" ]
+					},
+					
+					{
+						"NoteInput.SetDotted" : [ "Num+.", "DELETE:." ]
+					},
+					
+					{
+						"NoteInput.RestMode" : [ "DELETE:," ]
+					},
+					
+					{
+						"NoteInput.CreateGraceNote" : [ ":" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kCrotchet" : [ "Num+4", "DELETE:6" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kMinim" : [ "Num+5", "DELETE:7" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kSemibreve" : [ "Num+6", "DELETE:8" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kQuaver" : [ "Num+3", "DELETE:5" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kSemiQuaver" : [ "Num+2", "DELETE:4" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kDemiSemiQuaver" : [ "Num+1", "DELETE:3" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kNatural" : [ "Num+7", "DELETE:0" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kSharp" : [ "Num+8", "DELETE:=" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kFlat" : [ "Num+9", "DELETE:-" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kDoubleFlat" : [ "Ctrl+Num+9" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kDoubleSharp" : [ "Ctrl+Num+8" ]
+					},
+					
+					{
+						"NoteInput.Tie" : [ "Num+0", "DELETE:T" ]
+					},
+					
+					{
+						"NoteInput.CreateSystemText?ParagraphStyleID=paragraph.defaulttext" : [ "Ctrl+Shift+X", "DELETE:Shift+Alt+X" ]
+					},
+					
+					{
+						"NoteInput.StartTupletRun" : [ "Num++", "DELETE:;" ]
+					}
+				]
+			},
+			
+			{
+				"context" : "kMusicEditable",
+				"shortcuts" : [
+					
+					{
+						"EventEdit.NavigateUpNextStave" : [ "DELETE:Ctrl+Up", "DELETE:Num+Ctrl+Up" ]
+					},
+					
+					{
+						"EventEdit.NavigateDownNextStave" : [ "DELETE:Ctrl+Down", "DELETE:Num+Ctrl+Down" ]
+					},
+					
+					{
+						"NoteEdit.PitchUpOctave" : [ "Ctrl+Up" ]
+					},
+					
+					{
+						"NoteEdit.PitchDownOctave" : [ "Ctrl+Down" ]
+					}
+				]
+			}
+		]
+	},
+	"delta" : "true",
+	"version" : "4.1.0",
+	"windows" : {
+		"contexts" : [
+			
+			{
+				"context" : "kWriteMode",
+				"shortcuts" : [
+					
+					{
+						"NoteInput.SetArticulation?Value=kTenuto" : [ "DELETE:#" ]
+					}
+				]
+			}
+		]
+	}
+}
