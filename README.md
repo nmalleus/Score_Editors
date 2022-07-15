@@ -16,9 +16,9 @@ __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`
 __Mac__: `/Users/username/.vscode/extensions`  ???
 
 ## About Nelson
-Website:
-https://www.nelsonmalleus.com/
-References:
-https://www.imdb.com/name/nm7833586
-Virtual instruments:
-https://www.inouisamples.com/
+
+Website: https://www.nelsonmalleus.com/
+
+References: https://www.imdb.com/name/nm7833586
+
+Virtual instruments: https://www.inouisamples.com/
