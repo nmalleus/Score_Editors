@@ -10,6 +10,7 @@ __Mac__: `/Users/username/.vscode/extensions`  ???
 
 Keyboard shortcuts:
  - keycommands_en.json
+
 Keyboard layouts:
  - Main:
      - http://www.keyboard-layout-editor.com/#/gists/268fec8c85147ed85300d39c7f37b1dd
