@@ -1,4 +1,4 @@
-# Nelson MALLEUS settings for Steinberg Dorico
+# Nelson MALLEUS settings for *Steinberg Dorico* & *Avid Sibelius*
 
 I'm passionate about orchestration and engraving since I was 15... and I've been perfecting my workflow ever since!
 
