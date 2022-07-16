@@ -26,6 +26,11 @@ Keyboard layouts:
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`  
 __Mac__: `/Users/username/.vscode/extensions`  ???
 
+## Future updates
+
+### Missing shortcuts
+ - Erease background
+
 ## About Nelson
 
 Website: https://www.nelsonmalleus.com
