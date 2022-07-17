@@ -249,11 +249,11 @@
 					},
 					
 					{
-						"NoteInput.Pitch?Pitch=A" : [ "R", "DELETE:A" ]
+						"NoteInput.Pitch?Pitch=A" : [ "E", "DELETE:A" ]
 					},
 					
 					{
-						"NoteInput.Pitch?Pitch=B" : [ "F", "DELETE:B" ]
+						"NoteInput.Pitch?Pitch=B" : [ "R", "DELETE:B" ]
 					},
 					
 					{
@@ -261,19 +261,19 @@
 					},
 					
 					{
-						"NoteInput.Pitch?Pitch=D" : [ "Z", "DELETE:D" ]
+						"NoteInput.Pitch?Pitch=D" : [ "S", "DELETE:D" ]
 					},
 					
 					{
-						"NoteInput.Pitch?Pitch=E" : [ "S", "DELETE:E" ]
+						"NoteInput.Pitch?Pitch=E" : [ "D", "DELETE:E" ]
 					},
 					
 					{
-						"NoteInput.Pitch?Pitch=F" : [ "E", "DELETE:F" ]
+						"NoteInput.Pitch?Pitch=F" : [ "F", "DELETE:F" ]
 					},
 					
 					{
-						"NoteInput.Pitch?Pitch=G" : [ "D", "DELETE:G" ]
+						"NoteInput.Pitch?Pitch=G" : [ "Z", "DELETE:G" ]
 					},
 					
 					{
