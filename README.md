@@ -14,8 +14,7 @@
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 4`  
 __Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
 
-Keyboard shortcuts:
- - keycommands_en.json
+Keyboard shortcuts: *keycommands_en.json*
 
 ## Sibelius files
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`  
