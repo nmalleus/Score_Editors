@@ -7,6 +7,8 @@
      - http://www.keyboard-layout-editor.com/#/gists/80e9aa7c4cfd32d7bb100726e97b4ce9
  - Ctrl:
      - http://www.keyboard-layout-editor.com/#/gists/20091dd63c21f9d368768db1916f7128
+ - Alt:
+     - http://www.keyboard-layout-editor.com/#/gists/60671fedbdba6d2ae1e0eaa9a10b6a44
  - Ctrl+Shift:
      - http://www.keyboard-layout-editor.com/#/gists/de22c190fe225649c48c61d76f4bdcc6
  - Alt+Shift:
@@ -37,7 +39,8 @@ Keyboard shortcuts: *\Keyboard Shortcuts*
  - Unlink dynamics
  - Group dynamics
  - Send properties to parts (Ctrl+Shift+P)
-  - Colors
+ - Colors
+ - Note Head
 
 ### Other updates
  - *senza dim.*
