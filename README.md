@@ -34,7 +34,6 @@ Keyboard shortcuts: *\Keyboard Shortcuts*
 
 ### Missing shortcuts
  - Erease background
- Dorico:
  - Unlink dynamics
  - Group dynamics
  - Colors
