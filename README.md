@@ -37,6 +37,8 @@ __Mac__: `/Users/username/.vscode/extensions`  ???
  - Unlink dynamics
  - Group dynamics
  - Send properties to parts (Ctrl+Shift+P)
+  - Colors
+### Other updates
  - *senza dim.*
 
 ## About Nelson
