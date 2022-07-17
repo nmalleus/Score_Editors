@@ -12,13 +12,15 @@
 
 ## Dorico files
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 4`  
-__Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
+__Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 4`
 
 Keyboard shortcuts: *keycommands_en.json*
 
 ## Sibelius files
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`  
-__Mac__: `/Users/username/.vscode/extensions`
+__Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
+
+Keyboard shortcuts: *\Keyboard Shortcuts*
 
 ## Future updates
 
