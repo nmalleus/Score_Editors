@@ -11,6 +11,8 @@
      - http://www.keyboard-layout-editor.com/#/gists/de22c190fe225649c48c61d76f4bdcc6
  - Alt+Shift:
      - http://www.keyboard-layout-editor.com/#/gists/8814118f3b282d2ffc3dfdaac3534f99
+ - Ctrl+Alt+Shift:
+     - http://www.keyboard-layout-editor.com/#/gists/4e0f99598058720cc784a2fb235b4821
 
 ## Dorico files
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 4`  
