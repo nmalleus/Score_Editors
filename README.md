@@ -9,6 +9,8 @@
      - http://www.keyboard-layout-editor.com/#/gists/20091dd63c21f9d368768db1916f7128
  - Ctrl+Shift:
      - http://www.keyboard-layout-editor.com/#/gists/de22c190fe225649c48c61d76f4bdcc6
+ - Alt+Shift:
+     - http://www.keyboard-layout-editor.com/#/gists/8814118f3b282d2ffc3dfdaac3534f99
 
 ## Dorico files
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 4`  
