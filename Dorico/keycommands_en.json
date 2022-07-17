@@ -79,6 +79,22 @@
 					},
 					
 					{
+						"Filter.NotesInChordsFromBottom3" : [ "Alt+Shift+F3" ]
+					},
+					
+					{
+						"Filter.NotesInChordsFromBottom4" : [ "Alt+Shift+F4" ]
+					},
+					
+					{
+						"Filter.NotesInChordsFromTop1" : [ "Alt+Shift+F1" ]
+					},
+					
+					{
+						"Filter.NotesInChordsFromTop2" : [ "Alt+Shift+F2" ]
+					},
+					
+					{
 						"Filter.Text" : [ "Alt+Shift+X" ]
 					},
 					
@@ -476,6 +492,10 @@
 					
 					{
 						"NoteInput.RepeatLast" : [ "DELETE:R" ]
+					},
+					
+					{
+						"NoteInput.GridResolutionIncrease" : [ "DELETE:Alt+]" ]
 					},
 					
 					{
