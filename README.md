@@ -30,6 +30,14 @@ __Mac__: `/Users/username/.vscode/extensions`  ???
 
 ### Missing shortcuts
  - Erease background
+ - Filter voice
+ - Filter notes in chords
+ Dorico:
+ - Change grid *Dorico*
+ - Unlink dynamics
+ - Group dynamics
+ - Send properties to parts (Ctrl+Shift+P)
+ - *senza dim.*
 
 ## About Nelson
 
