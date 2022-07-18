@@ -28,7 +28,7 @@ Keyboard shortcuts: *keycommands_en.json*
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`  
 __Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
 
-Keyboard shortcuts: *\Keyboard Shortcuts*
+Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
 
 ## Future updates
 
@@ -38,6 +38,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts*
  - Group dynamics
  - Colors
  - Note Head
+ - add AHK for custom noteheads
 
 ### Other updates
  - *senza dim.*

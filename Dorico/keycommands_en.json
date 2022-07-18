@@ -51,15 +51,19 @@
 					},
 					
 					{
-						"Edit.SingleNoteTremoloOneStroke" : [ "Ctrl+Num+4" ]
+						"Edit.SingleNoteTremoloOneStroke" : [ "Ctrl+Num+1" ]
 					},
 					
 					{
-						"Edit.SingleNoteTremoloThreeStrokes" : [ "Ctrl+Num+6" ]
+						"Edit.SingleNoteTremoloThreeStrokes" : [ "Ctrl+Num+3" ]
 					},
 					
 					{
-						"Edit.SingleNoteTremoloTwoStrokes" : [ "Ctrl+Num+5" ]
+						"Edit.SingleNoteTremoloTwoStrokes" : [ "Ctrl+Num+2" ]
+					},
+					
+					{
+						"Edit.SwapVoices" : [ "Ctrl+Shift+V" ]
 					},
 					
 					{
@@ -269,10 +273,6 @@
 					},
 					
 					{
-						"NoteInput.Pitch?Pitch=F" : [ "F", "DELETE:F" ]
-					},
-					
-					{
 						"NoteInput.Pitch?Pitch=G" : [ "Z", "DELETE:G" ]
 					},
 					
@@ -329,11 +329,31 @@
 					},
 					
 					{
-						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kQuaver" : [ "Ctrl+Num+3" ]
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kCrotchet" : [ "Alt+Num+4" ]
 					},
 					
 					{
-						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kSemiquaver" : [ "Ctrl+Num+2" ]
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kMinim" : [ "Alt+Num+5" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kSemibreve" : [ "Alt+Num+6" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kQuaver" : [ "Alt+Num+3" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kSemiquaver" : [ "Alt+Num+2" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kDemisemiquaver" : [ "Alt+Num+1" ]
+					},
+					
+					{
+						"NoteInput.GridResolutionIncrease" : [ "DELETE:Alt+]" ]
 					},
 					
 					{
@@ -459,7 +479,11 @@
 				"shortcuts" : [
 					
 					{
-						"NoteInput.GridResolutionDecrease" : [ "Alt+(" ]
+						"NoteInput.GridResolutionDecrease" : [ "Alt+)" ]
+					},
+					
+					{
+						"NoteInput.GridResolutionIncrease" : [ "Alt+(", "Alt+)" ]
 					},
 					
 					{
@@ -492,10 +516,6 @@
 					
 					{
 						"NoteInput.RepeatLast" : [ "DELETE:R" ]
-					},
-					
-					{
-						"NoteInput.GridResolutionIncrease" : [ "DELETE:Alt+]" ]
 					},
 					
 					{
