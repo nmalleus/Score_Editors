@@ -37,13 +37,13 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Unlink dynamics
  - Group dynamics
  - Colors for *Dorico*
- - L.V. *Dorico*
+ - L.V. for *Dorico*
 
 ### Other updates
  - *senza dim.*
  - List Dorico popovers
  - What il Ctrl+L Filter Pages?
- - Update the layout of rythic grid (Alt Num 1, 2, 3...)
+ - Update the layout of rythmic grid (Alt Num 1, 2, 3...)
  - Ctrl + Maj : no keyboard change on *Windows*
  - What is *Dot Num .* ins the Alt section?
  - TO DORICO : popover suggestions
