@@ -36,18 +36,25 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Erease background
  - Unlink dynamics
  - Group dynamics
- - Colors
- - Note Head
- - add AHK for custom noteheads
+ - Colors for *Dorico*
+ - L.V. *Dorico*
 
 ### Other updates
  - *senza dim.*
+ - List Dorico popovers
+ - What il Ctrl+L Filter Pages?
+ - Update the layout of rythic grid (Alt Num 1, 2, 3...)
+ - Ctrl + Maj : no keyboard change on *Windows*
+ - What is *Dot Num .* ins the Alt section?
+ - TO DORICO : popover suggestions
+ → System text on regular instead of italic
 
 ## About Nelson
 
 I'm passionate about orchestration and engraving since I was 15... and I've been perfecting my workflow ever since!
 
 If you were able to find this file, I'm happy to share my *Dorico* and *Sibelius* preferences with you.
+Feel free to suggest optimizations!
 
 Website: https://www.nelsonmalleus.com
 
