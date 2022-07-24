@@ -23,6 +23,10 @@ Updated from version 3.1, January 2020
 | Add bars                         | **+*Number*** or ***Num***                 |
 | Delete bars                      | **-*Number***                 |
 
+
+|                                        |                         |
+| Goto Galley  View                      | `Ctr` + `Alt` + `2`     |
+
 ## Clefs and octave lines **Shift+C**
 
 ## Dynamics **Shift+D**
