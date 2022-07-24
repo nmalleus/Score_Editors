@@ -1,5 +1,7 @@
 # *Steinberg Dorico* popovers
 
+Updated from version 3.1, January 2020
+
 ## Lists
  - [Bars and barlines **Shift+B**](#bars-and-barlines-shiftb)
  - [Clefs and octave lines **Shift+C**](#clefs-and-octave-lines-shiftc)
@@ -18,6 +20,8 @@
  - [Playing techniques **Shift+W** instead of **Shift+P**](#playing-techniques-shiftw-instead-of-shiftp)
 
 ## Bars and barlines **Shift+B**
+| Add bars                         | **+*Number*** or ***Num***                 |
+| Delete bars                      | **-*Number***                 |
 
 ## Clefs and octave lines **Shift+C**
 
