@@ -18,13 +18,19 @@
  - Ctrl+Alt+Shift:
      - http://www.keyboard-layout-editor.com/#/gists/4e0f99598058720cc784a2fb235b4821
 
-## Dorico files
+## Dorico
+ - Popover list:
+     - https://github.com/nmalleus/Score_Editors/blob/master/Dorico/Popovers.md
+
+### Dorico Files
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 4`  
 __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 4`
 
 Keyboard shortcuts: *keycommands_en.json*
 
-## Sibelius files
+## Sibelius
+
+### Sibelius Files
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`  
 __Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
 
