@@ -32,6 +32,9 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
 
 ## Future updates
 
+### Global updates
+ - Finish popovers
+
 ### Missing shortcuts
  - Erease background
  - Unlink dynamics

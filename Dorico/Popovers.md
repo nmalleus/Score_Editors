@@ -21,14 +21,13 @@ Updated from version 3.1, January 2020
 
 ## Bars and barlines **Shift+B**
 
-| Action                                 | Shortcut                |
+| Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-| Add bars                         | `+`+`*Number*` or `**Num*`                 |
-| Delete bars                      | `-`+`*Number*`                 |
-
-
+| Add bars                         | `+`+`Number` or `Nummber      |
+| Delete bars                      | `-`+`Number`                  |
 |                                        |                         |
-| Goto Galley  View                      | `Ctr` + `Alt` + `2`     |
+...
+
 
 ## Clefs and octave lines **Shift+C**
 
