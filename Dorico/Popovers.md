@@ -1,7 +1,7 @@
 # *Steinberg Dorico* popovers
 
 ## Lists
- - Bars and barlines **Shift+B**
+ - [Bars and barlines **Shift+B**](#bars-and-barlines-shiftb)
  - Clefs and octave lines **Shift+C**
  - Dynamics **Shift+D**
  - Fingering **Shift+F**
