@@ -31,6 +31,10 @@
 					},
 					
 					{
+						"Edit.PasteIntoVoice" : [ "Ctrl+Alt+V" ]
+					},
+					
+					{
 						"Edit.PropagateProperties" : [ "Ctrl+Shift+P" ]
 					},
 					
@@ -67,6 +71,10 @@
 					},
 					
 					{
+						"Edit.ToggleLaissezVibrerTie" : [ "B" ]
+					},
+					
+					{
 						"Edit.TransposeSelection" : [ "T" ]
 					},
 					
@@ -83,19 +91,19 @@
 					},
 					
 					{
-						"Filter.NotesInChordsFromBottom3" : [ "Alt+Shift+F3" ]
-					},
-					
-					{
-						"Filter.NotesInChordsFromBottom4" : [ "Alt+Shift+F4" ]
-					},
-					
-					{
 						"Filter.NotesInChordsFromTop1" : [ "Alt+Shift+F1" ]
 					},
 					
 					{
 						"Filter.NotesInChordsFromTop2" : [ "Alt+Shift+F2" ]
+					},
+					
+					{
+						"Filter.NotesInChordsFromTop3" : [ "Alt+Shift+F3" ]
+					},
+					
+					{
+						"Filter.NotesInChordsFromTop4" : [ "Alt+Shift+F4" ]
 					},
 					
 					{
@@ -526,7 +534,7 @@
 		]
 	},
 	"delta" : "true",
-	"version" : "4.1.0",
+	"version" : "4.2.0",
 	"windows" : {
 		"contexts" : [
 			
