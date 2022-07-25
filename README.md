@@ -30,7 +30,7 @@ Keyboard shortcuts: *keycommands_en.json*
 
 ## Sibelius
  - Plugin selection:
-     - 
+     - https://github.com/nmalleus/Score_Editors/blob/master/Sibelius/Plugin_Selection.md
 
 ### Sibelius Files
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`  

@@ -2,6 +2,7 @@
 
 Subjective selection based on what I use the most.
 You can download them following this link:
+
 http://www.sibelius.com/download/plugins/index.html
 
 ### Notation
@@ -16,4 +17,4 @@ http://www.sibelius.com/download/plugins/index.html
  - LineBetweenNotes.plg (*Lines*)
 
 ### Playback
- - *NotePerformer* https://www.noteperformer.com/
+ - *NotePerformer*: https://www.noteperformer.com/
