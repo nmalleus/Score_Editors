@@ -29,6 +29,8 @@ __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 4`
 Keyboard shortcuts: *keycommands_en.json*
 
 ## Sibelius
+ - Plugin selection:
+     - 
 
 ### Sibelius Files
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`  
@@ -60,7 +62,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
 I'm passionate about orchestration and engraving since I was 15... and I've been perfecting my workflow ever since!
 
 If you were able to find this file, I'm happy to share my *Dorico* and *Sibelius* preferences with you.
-Feel free to suggest optimizations!
+Feel free to suggest optimizations.
 
 Website: https://www.nelsonmalleus.com
 
