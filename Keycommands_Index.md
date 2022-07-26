@@ -7,12 +7,6 @@
  - [Transformations](#transformations)
  - [Playback](#playback)
  - [View & Windows](#view--windows)
- - []()
- - []()
- - []()
- - []()
- - []()
-
 
 ## General
 | Action                                 | Keycommand              |
@@ -102,7 +96,3 @@
 | Sibelius satellite 4                   | `F10`                   |
 | Sibelius satellite 5                   | `F11`                   |
 | Sibelius satellite 6                   | `F12`                   |
-
-## Note input
-
-## Note input
