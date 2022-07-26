@@ -1,6 +1,8 @@
 # Nelson MALLÉUS settings for *Steinberg Dorico* & *Avid Sibelius*
 
-## Keybords layouts
+## Keybord layouts
+ - Keycommands index:
+     - 
  - Main:
      - http://www.keyboard-layout-editor.com/#/gists/268fec8c85147ed85300d39c7f37b1dd
  - Shift:

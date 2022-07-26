@@ -1,6 +1,6 @@
 # *Avid Sibelius* more preferences
 
-Subjective selection based on what I use the most.
+**Subjective** selection.
 
 ## Preferences
 
