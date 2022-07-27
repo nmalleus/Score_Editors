@@ -52,12 +52,11 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Colors for *Dorico*
 
 ### Other updates
- - *senza dim.*
+ - *senza dim.* in *Dorico*
  - List Dorico popovers
- - Update the layout of rythmic grid (Alt Num 1, 2, 3...)
+ - Place harp pedaling above system
  - Ctrl + Maj : no keyboard change on *Windows*
  - TO DORICO : popover suggestions
- → System text on regular instead of italic
 
 ## About Nelson
 

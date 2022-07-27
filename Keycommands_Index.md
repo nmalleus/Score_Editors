@@ -6,14 +6,28 @@
  - [Complementary inputs](#complementary-inputs)
  - [Texts](#texts)
  - [Transformations](#transformations)
+ - [Layout](#layout)
  - [Playback](#playback)
+ - [Selection & Navigation](#selection--navigation)
  - [View & Windows](#view--windows)
 
 ## General
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
 | Help                                   | `F1`                    |
+| Open file                              | `Ctrl+O`                |
+| New file                               | `Ctrl+N`                |
+| Close file                             | `Alt+F4`                |
+| Save                                   | `Ctrl+S`                |
+| Preferences                            | `Ctrl+?`                |
+| Project Info                           | `Ctrl+I`                |
 | Add instument *Sib*                    | `I`                     |
+| Undo                                   | `Ctrl+Z`                |
+| Redo                                   | `Ctrl+Y`                |
+| Cut                                    | `Ctrl+X`                |
+| Copy                                   | `Ctrl+C`                |
+| Paste                                  | `Ctrl+V`                |
+| Comment                                | `Alt+C`                 |
 
 ## Note input
 | Input                                  | Keycommand              |
@@ -29,6 +43,8 @@
 | ♮                                      | `Num 7`                 |
 | ♯                                      | `Num 8`                 |
 | ♭                                      | `Num 9`                 |
+| double ♯                               | `Ctrl+Num 8`            |
+| doubel ♭                               | `Ctrl+Num 9`            |
 | Add interval                           | `Shift+I`               |
 | Chord mode *Dco*                       | `A`                     |
 | 𝅝                                      | `Num 6`                 |
@@ -45,10 +61,14 @@
 | Lock duration                          | `L`                     |
 | Change voice                           | `V`                     |
 | New voice *Dco*                        | `Shift+V`               |
+| Grid size                              | `Alt+Num 1 2 3 4 5 6`   |
 
 ## Complementary inputs
 | Input                                  | Keycommand              |
 | -------------------------------------- | ----------------------- |
+| 1 stroke tremolo                       | `Ctrl+Num 1`            |
+| 2 strokes tremolo                      | `Ctrl+Num 2`            |
+| 3 strokes tremolo                      | `Ctrl+Num 3`            |
 | Staccatissimo                          | `Y`                     |
 | Staccato                               | `Num *`                 |
 | Staccato Tenuto *Dco*                  | `H`                     |
@@ -72,6 +92,7 @@
 | Repetitions                            | `Shift+R`               |
 | Rehearsal mark                         | `Shift+A`               |
 | Cue                                    | `Shift+U`               |
+| Harp pedaling                          | `Ctrl+H`                |
 
 ## Texts
 | Text                                   | Keycommand              |
@@ -83,16 +104,42 @@
 | Chord Symbol                           | `Shift+Q`               |
 | Figured Bass                           | `Shift+G`               |
 
+## Selection & Navigation
+| Action                                 | Keycommand              |
+| -------------------------------------- | ----------------------- |
+| Move                                   | `↑ ↓ ← →`               |
+| Move to previous / Next bar            | `Ctrl+ ← →`             |
+| Jummp *Dco*                            | `J`                     |
+| Go to bar *Dco*                        | `Shift+G`               |
+| Extend selection                       | `Shift+ ↑ ↓ ← →`        |
+| Select all                             | `Ctrl+A`                |
 
 ## Transformations
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
+| Insert mode                            | `Alt+I`                 |
 | Delete                                 | `del` or `suppr`        |
 | Transpose                              | `T`                     |
+| Transpose 1 octave up                  | `Ctrl+↑`                |
+| Transpose 1 octave down                | `Ctrl+↓`                |
+| Move to upstem voice 1                 | `Alt+1`                 |
+| Move to downstem voice 1               | `Alt+2`                 |
+| Move to upstem voice 2                 | `Alt+3`                 |
+| Move to downstem voice 2               | `Alt+4`                 |
+| Shift up / down                        | `Alt+ ↑ ↓`              |
+| Move left / right                      | `Alt+ ← →`              |
 | Split                                  | `U`                     |
-| Move to lower staff                    | `M`                     |
-| Move to upper staff                    | `N`                     |
+| Move to lower staff                    | `M` or `Alt+M`          |
+| Move to upper staff                    | `N` or `Alt+N`          |
 | Flip                                   | `X`                     |
+
+## Layout
+| Action                                 | Keycommand              |
+| -------------------------------------- | ----------------------- |
+| Next layout                            | `Ctrl+<`                |
+| Close layout                           | `Ctrl+W`                |
+| System break                           | `Ctrl+D`                |
+| Frame break                            | `Ctrl+F`                |
 
 ## Playback
 | Action                                 | Keycommand              |
@@ -101,20 +148,16 @@
 | Play from selection                    | `P`                     |
 | Show transport                         | `F2`                    |
 | Show mixer                             | `F3`                    |
-
-## Navigation
-| Action                                 | Keycommand              |
-| -------------------------------------- | ----------------------- |
-| Move up                                | `↑ ↓ ← →`               |
-| Jummp *Dco*                            | `J`                     |
-| Extend selection                       | `Shift+ ↑ ↓ ← →`        |
+| No mutel channel                       | `Alt+U`                 |
 
 ## View & Windows
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
+| Preferences                            | `Ctrl+?`                |
+| Project Info                           | `Ctrl+I`                |
 | Inspect / Properties                   | `,`                     |
-| Show transport                         | `F2`                    |
-| Show mixer                             | `F3`                    |
+| Transport                         | `F2`                    |
+| Mixer                             | `F3`                    |
 | Sibelius satellite 1                   | `F5` or `F7`            |
 | Sibelius satellite 2                   | `F8`                    |
 | Sibelius satellite 3                   | `F9`                    |
