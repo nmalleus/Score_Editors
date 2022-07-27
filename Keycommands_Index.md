@@ -12,22 +12,24 @@
  - [View & Windows](#view--windows)
 
 ## General
-| Action                                 | Keycommand              |
-| -------------------------------------- | ----------------------- |
-| Help                                   | `F1`                    |
-| Open file                              | `Ctrl+O`                |
-| New file                               | `Ctrl+N`                |
-| Close file                             | `Alt+F4`                |
-| Save                                   | `Ctrl+S`                |
-| Preferences                            | `Ctrl+?`                |
-| Project Info                           | `Ctrl+I`                |
-| Add instument *Sib*                    | `I`                     |
-| Undo                                   | `Ctrl+Z`                |
-| Redo                                   | `Ctrl+Y`                |
-| Cut                                    | `Ctrl+X`                |
-| Copy                                   | `Ctrl+C`                |
-| Paste                                  | `Ctrl+V`                |
-| Comment                                | `Alt+C`                 |
+| Action                                 | Keycommand                |
+| -------------------------------------- | ------------------------- |
+| Help                                   | `F1`                      |
+| Open file                              | `Ctrl+O`                  |
+| New file                               | `Ctrl+N`                  |
+| Close project                          | `Ctrl+Shift+W`            |
+| Exit                                   | `Alt+F4`                  |
+| Save                                   | `Ctrl+S`                  |
+| Save as                                | `Ctrl+Shift+S`            |
+| Preferences                            | `Ctrl+?`                  |
+| Project Info                           | `Ctrl+I`                  |
+| Add instument *Sib*                    | `I`                       |
+| Undo                                   | `Ctrl+Z`                  |
+| Redo                                   | `Ctrl+Y` or `Ctrl+Shift+Z`|
+| Cut                                    | `Ctrl+X`                  |
+| Copy                                   | `Ctrl+C`                  |
+| Paste                                  | `Ctrl+V`                  |
+| Comment                                | `Alt+C`                   |
 
 ## Note input
 | Input                                  | Keycommand              |
@@ -111,8 +113,10 @@
 | Move to previous / Next bar            | `Ctrl+ ← →`             |
 | Jummp *Dco*                            | `J`                     |
 | Go to bar *Dco*                        | `Shift+G`               |
-| Extend selection                       | `Shift+ ↑ ↓ ← →`        |
 | Select all                             | `Ctrl+A`                |
+| Select more                            | `Ctrl+Shift+A`          |
+| Extend selection                       | `Shift+ ↑ ↓ ← →`        |
+
 
 ## Transformations
 | Action                                 | Keycommand              |
@@ -122,6 +126,7 @@
 | Transpose                              | `T`                     |
 | Transpose 1 octave up                  | `Ctrl+↑`                |
 | Transpose 1 octave down                | `Ctrl+↓`                |
+| Swap voices                            | `Ctrl+Shift+V`          |
 | Move to upstem voice 1                 | `Alt+1`                 |
 | Move to downstem voice 1               | `Alt+2`                 |
 | Move to upstem voice 2                 | `Alt+3`                 |
@@ -132,14 +137,19 @@
 | Move to lower staff                    | `M` or `Alt+M`          |
 | Move to upper staff                    | `N` or `Alt+N`          |
 | Flip                                   | `X`                     |
+| Inspect / Properties                   | `,`                     |
+| Propagate properties *Dco*             | `Ctrl+Shift+P`          |
 
 ## Layout
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
 | Next layout                            | `Ctrl+<`                |
+| Next layout                            | `Ctrl+>`                |
 | Close layout                           | `Ctrl+W`                |
 | System break                           | `Ctrl+D`                |
 | Frame break                            | `Ctrl+F`                |
+| Engraving options                      | `Ctrl+Shift+E`          |
+| Layout options                         | `Ctrl+Shift+E`          |
 
 ## Playback
 | Action                                 | Keycommand              |
@@ -156,8 +166,11 @@
 | Preferences                            | `Ctrl+?`                |
 | Project Info                           | `Ctrl+I`                |
 | Inspect / Properties                   | `,`                     |
-| Transport                         | `F2`                    |
-| Mixer                             | `F3`                    |
+| Engraving options                      | `Ctrl+Shift+E`          |
+| Layout options                         | `Ctrl+Shift+E`          |
+| Note input options                     | `Ctrl+Shift+I`          |
+| Transport                              | `F2`                    |
+| Mixer                                  | `F3`                    |
 | Sibelius satellite 1                   | `F5` or `F7`            |
 | Sibelius satellite 2                   | `F8`                    |
 | Sibelius satellite 3                   | `F9`                    |

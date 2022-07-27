@@ -43,6 +43,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
 ## Future updates
 
 ### Global updates
+ - Finish Keycommand index (Ctrl+Alt, Alt+Shift, Ctrl+Alt+Shift)
  - Finish popovers
 
 ### Missing shortcuts
