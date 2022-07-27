@@ -4,6 +4,7 @@
  - [General](#general)
  - [Note input](#note-input)
  - [Complementary inputs](#complementary-inputs)
+ - [Texts](#texts)
  - [Transformations](#transformations)
  - [Playback](#playback)
  - [View & Windows](#view--windows)
@@ -12,10 +13,10 @@
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
 | Help                                   | `F1`                    |
-| Add instument *Sib*                    | `I`                    |
+| Add instument *Sib*                    | `I`                     |
 
 ## Note input
-| Action                                 | Keycommand              |
+| Input                                  | Keycommand              |
 | -------------------------------------- | ----------------------- |
 | Start input                            | `Num Enter`             |
 | A note                                 | `E`                     |
@@ -28,6 +29,7 @@
 | ♮                                      | `Num 7`                 |
 | ♯                                      | `Num 8`                 |
 | ♭                                      | `Num 9`                 |
+| Add interval                           | `Shift+I`               |
 | Chord mode *Dco*                       | `A`                     |
 | 𝅝                                      | `Num 6`                 |
 | 𝅗𝅥                                      | `Num 5`                 |
@@ -42,9 +44,10 @@
 | Force duration *Dco*                   | `O`                     |
 | Lock duration                          | `L`                     |
 | Change voice                           | `V`                     |
+| New voice *Dco*                        | `Shift+V`               |
 
 ## Complementary inputs
-| Action                                 | Keycommand              |
+| Input                                  | Keycommand              |
 | -------------------------------------- | ----------------------- |
 | Staccatissimo                          | `Y`                     |
 | Staccato                               | `Num *`                 |
@@ -53,9 +56,33 @@
 | Accentuato                             | `Num /`                 |
 | Marcato                                | `G`                     |
 | Laisser Vibrer                         | `B`                     |
+| Symbol *Sib*                           | `Shift+Z`               |
+| Ornament / Line                        | `Shift+O`               |
+| Line *Sib*                             | `Shift+S`               |
 | Slur                                   | `W`                     |
-| Crescendo                              | `Shift+<`                     |
+| Dynamics                               | `Shift+D`               |
+| Crescendo                              | `Shift+<`               |
 | Decrescendo                            | `<`                     |
+| Clef                                   | `Shift+C`               |
+| Key Signature                          | `Shift+K`               |
+| Meter                                  | `Shift+M`               |
+| Tempo                                  | `Shift+T`               |
+| Bars                                   | `Shift+B`               |
+| Hold                                   | `Shift+H`               |
+| Repetitions                            | `Shift+R`               |
+| Rehearsal mark                         | `Shift+A`               |
+| Cue                                    | `Shift+U`               |
+
+## Texts
+| Text                                   | Keycommand              |
+| -------------------------------------- | ----------------------- |
+| Technic                                | `Shift+W`               |
+| Basic                                  | `Shift+X`               |
+| System                                 | `Ctrl+Shift+X`          |
+| Lyrics                                 | `Shift+L`               |
+| Chord Symbol                           | `Shift+Q`               |
+| Figured Bass                           | `Shift+G`               |
+
 
 ## Transformations
 | Action                                 | Keycommand              |
@@ -71,23 +98,21 @@
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
 | Play / Stop                            | `Space`                 |
-| Play from selection                    | `P`                    |
+| Play from selection                    | `P`                     |
 | Show transport                         | `F2`                    |
 | Show mixer                             | `F3`                    |
 
 ## Navigation
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
-| Move up                                | `↑`                     |
-| Move down                              | `↓`                     |
-| Move left                              | `←`                     |
-| Move right                             | `→`                     |
+| Move up                                | `↑ ↓ ← →`               |
 | Jummp *Dco*                            | `J`                     |
+| Extend selection                       | `Shift+ ↑ ↓ ← →`        |
 
 ## View & Windows
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
-| Inspect / Properties                   | `,`                    |
+| Inspect / Properties                   | `,`                     |
 | Show transport                         | `F2`                    |
 | Show mixer                             | `F3`                    |
 | Sibelius satellite 1                   | `F5` or `F7`            |
