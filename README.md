@@ -43,7 +43,6 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
 ## Future updates
 
 ### Global updates
- - Finish Keycommand index (Ctrl+Alt, Alt+Shift, Ctrl+Alt+Shift)
  - Finish popovers
 
 ### Missing shortcuts
@@ -51,6 +50,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Unlink dynamics
  - Group dynamics
  - Colors for *Dorico*
+ - Change *No muted channel* from `Alt+U` to `Alt+Shift++U`
 
 ### Other updates
  - *senza dim.* in *Dorico*
