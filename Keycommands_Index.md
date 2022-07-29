@@ -2,7 +2,7 @@
 
 ## Table of content
  - [General](#general)
- - [Mode](#modes-dco)
+ - [Modes](#modes-dco)
  - [Note input](#note-input)
  - [Complementary inputs](#complementary-inputs)
  - [Texts](#texts)
@@ -199,8 +199,8 @@
 | Play from selection                    | `P`                     |
 | Show transport                         | `F2`                    |
 | Show mixer                             | `F3`                    |
-| No muted channel                       | `Alt+U`                 |
-| No solo channel                        | `AltShift+S`            |
+| No muted channel *Dco*                 | `Alt+Shift+U`           |
+| No solo channel *Dco*                  | `AltShift+S`            |
 
 ## View & Windows
 | Action                                 | Keycommand              |

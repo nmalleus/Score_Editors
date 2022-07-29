@@ -50,7 +50,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Unlink dynamics
  - Group dynamics
  - Colors for *Dorico*
- - Change *No muted channel* from `Alt+U` to `Alt+Shift++U`
+ - Is it possible to unmute/unsolo all chanels in *Sibelius*?
 
 ### Other updates
  - *senza dim.* in *Dorico*

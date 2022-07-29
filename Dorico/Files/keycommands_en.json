@@ -243,6 +243,10 @@
 					},
 					
 					{
+						"Play.UnMuteAll" : [ "Alt+Shift+U", "DELETE:Alt+U" ]
+					},
+					
+					{
 						"Play.ShowPlaybackOptions" : [ "DELETE:Ctrl+Shift+P" ]
 					}
 				]
