@@ -1,5 +1,7 @@
 # Nelson MALLÉUS settings for *Steinberg Dorico* & *Avid Sibelius*
 
+Thanks to Jérémy Weibel & Quentin Moret.
+
 ## Keybord layouts
  - Keycommand index:
      - https://github.com/nmalleus/Score_Editors/blob/master/Keycommands_Index.md
