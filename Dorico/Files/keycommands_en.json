@@ -507,11 +507,11 @@
 					},
 					
 					{
-						"NoteEdit.PitchUpOctave" : [ "Ctrl+Up" ]
+						"NoteEdit.PitchUpOctave" : [ "Ctrl+Up", "PgUp" ]
 					},
 					
 					{
-						"NoteEdit.PitchDownOctave" : [ "Ctrl+Down", "DELETE:Ctrl+Alt+Num+Down" ]
+						"NoteEdit.PitchDownOctave" : [ "Ctrl+Down", "PgDown", "DELETE:Ctrl+Alt+Num+Down" ]
 					},
 					
 					{

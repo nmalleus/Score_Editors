@@ -59,7 +59,9 @@
 | ♯                                      | `Num 8`                 |
 | ♭                                      | `Num 9`                 |
 | double ♯                               | `Ctrl+Num 8`            |
-| doubel ♭                               | `Ctrl+Num 9`            |
+| doubel ♭                               | `Ctrl+Num 9`            | 
+| On octave higher                       | `Page ↑`                |
+| On octave lower                        | `Page ↓`                |
 | Add interval                           | `Shift+I`               |
 | Chord mode *Dco*                       | `A`                     |
 | 𝅝                                      | `Num 6`                 |

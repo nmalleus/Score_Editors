@@ -53,6 +53,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Group dynamics
  - Colors for *Dorico*
  - Is it possible to unmute/unsolo all chanels in *Sibelius*?
+ - Add Page ↑/↓ to octave shift while input on *Sibelius*
 
 ### Other updates
  - *senza dim.* in *Dorico*
