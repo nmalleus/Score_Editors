@@ -54,6 +54,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Colors for *Dorico*
  - Is it possible to unmute/unsolo all chanels in *Sibelius*?
  - Add Page ↑/↓ to octave shift while input on *Sibelius*
+ - Macro for * + - on H for *Sibelius*
 
 ### Other updates
  - *senza dim.* in *Dorico*
@@ -61,6 +62,9 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Place harp pedaling above system
  - Ctrl + Maj : no keyboard change on *Windows*
  - TO DORICO : popover suggestions
+ - Dorico Notation Options (Flow) : Beam Grouping
+    - Simple blah blah... last : 1→2
+    - Secondary Beam Groups : 1→2 & 2→2
 
 ## About Nelson
 
