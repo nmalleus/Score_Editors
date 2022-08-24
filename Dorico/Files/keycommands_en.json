@@ -31,6 +31,10 @@
 					},
 					
 					{
+						"Edit.GroupDynamicsTogether" : [ "Ctrl+Alt+D" ]
+					},
+					
+					{
 						"Edit.PasteIntoVoice" : [ "Ctrl+Alt+V" ]
 					},
 					

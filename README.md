@@ -62,6 +62,9 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Place harp pedaling above system
  - Ctrl + Maj : no keyboard change on *Windows*
  - TO DORICO : popover suggestions
+ - Show System Break Signpost *Dorico*
+ - How to negative bar number in *Dorico*
+ - Never link dynamics or ties *Dorico*
  - Dorico Notation Options (Flow) : Beam Grouping
     - Simple blah blah... last : 1→2
     - Secondary Beam Groups : 1→2 & 2→2

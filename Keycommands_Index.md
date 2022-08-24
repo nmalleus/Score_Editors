@@ -156,6 +156,7 @@
 | Move to downstem voice 1               | `Alt+2`                 |
 | Move to upstem voice 2                 | `Alt+3`                 |
 | Move to downstem voice 2               | `Alt+4`                 |
+| Group dynamics *Dco*                   | `Ctrl+Alt+D`            |
 | Slash selected voice                   | `Alt+Shift+V`           |
 | Shift up / down                        | `Alt+ ↑ ↓`              |
 | Reduce element                         | `Alt+Shift+→`           |
