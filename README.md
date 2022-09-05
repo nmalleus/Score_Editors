@@ -2,6 +2,10 @@
 
 Thanks to Jérémy Weibel & Quentin Moret.
 
+__Want to help improve these resources?__
+For suggestions, questioning, testing, proofreading, completing, editing, your help is welcome!
+Do not hesitate to write to me at nelson@inouisamples.com (fr/en)
+
 ## Keybord layouts
  - Keycommand index:
      - https://github.com/nmalleus/Score_Editors/blob/master/Keycommands_Index.md
