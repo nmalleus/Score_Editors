@@ -151,6 +151,8 @@
 | Transpose                              | `T`                     |
 | Transpose 1 octave up                  | `Ctrl+↑`                |
 | Transpose 1 octave down                | `Ctrl+↓`                |
+| Respell to flats                       | `Alt+=`                 |
+| Respell to sharps                      | `Alt+-`                 |
 | Swap voices                            | `Ctrl+Shift+V`          |
 | Move to upstem voice 1                 | `Alt+1`                 |
 | Move to downstem voice 1               | `Alt+2`                 |
