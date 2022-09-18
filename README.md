@@ -73,6 +73,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
     - Simple blah blah... last : 1→2
     - Secondary Beam Groups : 1→2 & 2→2
  - *RoboBasket*: clean the *xml* file
+ - *Dorico* exporting tools would be nice
 
 ## About Nelson
 
