@@ -65,7 +65,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - List Dorico popovers
  - Place harp pedaling above system
  - Ctrl + Maj : no keyboard change on *Windows*
- - TO DORICO : popover suggestions
+ - TO DORICO: popover suggestions
  - Show System Break Signpost *Dorico*
  - How to negative bar number in *Dorico*
  - Never link dynamics or ties *Dorico*
@@ -74,6 +74,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
     - Secondary Beam Groups : 1→2 & 2→2
  - *RoboBasket*: clean the *xml* file
  - *Dorico* exporting tools would be nice
+ - *Sibelius*: auto F7 after Shift R then Number
 
 ## About Nelson
 
