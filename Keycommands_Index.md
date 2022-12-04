@@ -181,7 +181,7 @@
 | Next layout                            | `Ctrl+<`                |
 | Next layout                            | `Ctrl+>`                |
 | Close layout                           | `Ctrl+W`                |
-| Switch between score & pars *Sib       | `Ctrl+Alt+W`            |
+| Switch between score & pars *Sib*      | `Ctrl+Alt+W`            |
 | System break                           | `Ctrl+D`                |
 | Frame break                            | `Ctrl+F`                |
 | Make into one system                   | `Ctrl+Alt+Shift+I`      |
@@ -190,7 +190,7 @@
 | Lock frame                             | `Ctrl+Alt+Shift+L`      |
 | Reset staff spacing                    | `Ctrl+Alt+Shift+S`      |
 | Reset space between notes              | `Ctrl+Shift+N`          |
-| Optimise space between staves*Sib*     | `Ctrl+Alt+Shift+A`      |
+| Optimise space between staves *Sib*    | `Ctrl+Alt+Shift+A`      |
 | Graphic edit *Dco*                     | `Ctrl+Alt+Shift+G`      |
 | Note spacing *Dco*                     | `Ctrl+Alt+Shift+J`      |
 | Staff spacing *Dco*                    | `Ctrl+Alt+Shift+J`      |
