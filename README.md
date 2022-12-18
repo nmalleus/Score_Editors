@@ -72,9 +72,10 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Dorico Notation Options (Flow) : Beam Grouping
     - Simple blah blah... last : 1→2
     - Secondary Beam Groups : 1→2 & 2→2
- - *RoboBasket*: clean the *xml* file
+ - *RoboBasket*: add SATB sorting
  - *Dorico* exporting tools would be nice
  - *Sibelius*: auto F7 after Shift R then Number
+ - *AHK* : script with App, F7 after repetition for *Sibelius*, autocompletion
 
 ## About Nelson
 
