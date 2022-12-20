@@ -1,4 +1,7 @@
-﻿<rbfolders><rbfolder>
+﻿<!--Nelson MALLEUS XLM preferences for Robobasket-->
+<!--Sort pdf parts from Sibelius exports-->
+
+<rbfolders><rbfolder>
 <monitor_enable>False</monitor_enable>
 <folder_path>F:\Dropbox\WORKS\01_En_cours\02_Partitions</folder_path>
 <folder_title>02_Partitions</folder_title>
