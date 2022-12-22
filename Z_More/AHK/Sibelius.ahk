@@ -4,70 +4,65 @@ Works with Nelson's custom keycommands
 */
 #NoEnv
 #SingleInstance, Force
+#If WinActive("ahk_exe sibelius.exe")
 
 /*
 Going back to F7 after writting tremolos
 */
 
+If A_PriorHotKey = "R"
+{
+    Numpad1::
+        Send {Numpad1}
+        Send {F7}
+Return
+}
+If A_PriorHotKey = "R"
+    Numpad2::
+        Send {Numpad2}
+        Send {F7}
+Return
 If A_PriorKey = "R"
-    Numpad1::
-        Send {Numpad1}
-    If WinActive("ahk_exe sibelius.exe")
-        Send {F7}
-Return
-#If, A_PriorKey = "R"
-    Numpad2::
-        Send {Numpad2}
-    If WinActive("ahk_exe sibelius.exe")
-        Send {F7}
-Return
-#If, A_PriorKey = "R"
     Numpad3::
         Send {Numpad3}
-    If WinActive("ahk_exe sibelius.exe")
         Send {F7}
 Return
-#If, A_PriorKey = "R"
+If A_PriorKey = "R"
     Numpad4::
         Send {Numpad4}
-    If WinActive("ahk_exe sibelius.exe")
         Send {F7}
 Return
-#If, A_PriorKey = "R"
+If A_PriorKey = "R"
     Numpad5::
         Send {Numpad5}
-    If WinActive("ahk_exe sibelius.exe")
         Send {F7}
 Return
+/*
 
-#If, A_PriorKey = "F9"
+
+If A_PriorKey = "F9"
     Numpad1::
         Send {Numpad1}
-    If WinActive("ahk_exe sibelius.exe")
         Send {F7}
 Return
-#If, A_PriorKey = "F9"
+If A_PriorKey = "F9"
     Numpad2::
         Send {Numpad2}
-    If WinActive("ahk_exe sibelius.exe")
         Send {F7}
 Return
-#If, A_PriorKey = "F9"
+If A_PriorKey = "F9"
     Numpad3::
         Send {Numpad3}
-    If WinActive("ahk_exe sibelius.exe")
         Send {F7}
 Return
-#If, A_PriorKey = "F9"
+If A_PriorKey = "F9"
     Numpad4::
         Send {Numpad4}
-    If WinActive("ahk_exe sibelius.exe")
         Send {F7}
 Return
-#If, A_PriorKey = "F9"
+If A_PriorKey = "F9"
     Numpad5::
         Send {Numpad5}
-    If WinActive("ahk_exe sibelius.exe")
         Send {F7}
 Return
 
