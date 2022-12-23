@@ -10,13 +10,13 @@ Works with Nelson's custom keycommands
 Going back to F7 after writting tremolos
 */
 
+
+
 If A_PriorHotKey = "R"
-{
     Numpad1::
         Send {Numpad1}
         Send {F7}
 Return
-}
 If A_PriorHotKey = "R"
     Numpad2::
         Send {Numpad2}
@@ -82,9 +82,7 @@ Auto completion
 */
 
 ; global vocaulary
-    :*:sem::
-        Send % "sempre "
-    return
+    :*:sem::sempre 
 
 
 ; playing techniques
