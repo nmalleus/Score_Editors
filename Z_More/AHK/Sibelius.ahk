@@ -1,94 +1,161 @@
 /*
-Nelson MALLEUS AHK assistant for Dorico & Sibelius
+Nelson MALLEUS AHK assistant for Sibelius
 Works with Nelson's custom keycommands
+!!! indicates passages that need to be optimized, updated, corrected or created.
+ - Initialization
+ - Global commands
+ - Going back to F7 after writting tremolos
+ - Staying to F9 after writting tremolos
+ - Auto completion
 */
+
+/*
+Initialization
+*/
+
 #NoEnv
 #SingleInstance, Force
 #If WinActive("ahk_exe sibelius.exe")
+KeypadState := 7
 
 /*
-Going back to F7 after writting tremolos
+Global commands
 */
 
+Esc::
+    SendInput, {Esc}
+    AutoCompletion := 0
+Return
 
-
-If A_PriorHotKey = "R"
-    Numpad1::
-        Send {Numpad1}
-        Send {F7}
+F7::
+    SendInput, {F7}
+    KeypadState := 7
 Return
-If A_PriorHotKey = "R"
-    Numpad2::
-        Send {Numpad2}
-        Send {F7}
+F8::
+    SendInput, {F8}
+    KeypadState := 8
 Return
-If A_PriorKey = "R"
-    Numpad3::
-        Send {Numpad3}
-        Send {F7}
+F9::
+    SendInput, {F9}
+    KeypadState := 9
 Return
-If A_PriorKey = "R"
-    Numpad4::
-        Send {Numpad4}
-        Send {F7}
++r::
+    SendInput, R
+    KeypadState := 9
 Return
-If A_PriorKey = "R"
-    Numpad5::
-        Send {Numpad5}
-        Send {F7}
+F10::
+    SendInput, {F10}
+    KeypadState := 10
 Return
-/*
-
-
-If A_PriorKey = "F9"
-    Numpad1::
-        Send {Numpad1}
-        Send {F7}
+F11::
+    SendInput, {F11}
+    KeypadState := 11
 Return
-If A_PriorKey = "F9"
-    Numpad2::
-        Send {Numpad2}
-        Send {F7}
+F12::
+    SendInput, {F12}
+    KeypadState := 12
 Return
-If A_PriorKey = "F9"
-    Numpad3::
-        Send {Numpad3}
-        Send {F7}
+^F9::   ; faking Keypad state to stay on this panel
+    SendInput, {F9}
+    KeypadState := 7
 Return
-If A_PriorKey = "F9"
-    Numpad4::
-        Send {Numpad4}
-        Send {F7}
-Return
-If A_PriorKey = "F9"
-    Numpad5::
-        Send {Numpad5}
-        Send {F7}
+^+r::
+    SendInput, R
+    KeypadState := 7
 Return
 
 
 /*
-If F9 or Shift+R (no Shift+X no Shift+D, better not text at all)
-Shift + R : +R
-Numpad0
-    Leave F7, F8, F10, F11, F12
-    Case num1, 2, 3, 4, 5
+Going back to F7 after:
+ - writting tremolos
+ - !!! think about more usefull Keypad resets
+Use Ctrl+F8/F9/F10/F11/F12 or Ctrl+Shift+R to stay longer in this keypad
 */
 
+Numpad1::
+    Send {Numpad1}
+    If (KeypadState = 9)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+Numpad2::
+    Send {Numpad2}
+    If (KeypadState = 9)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+Numpad3::
+    Send {Numpad3}
+    If (KeypadState = 9)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+Numpad4::
+    Send {Numpad4}
+    If (KeypadState = 9)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+Numpad5::
+    Send {Numpad5}
+    If (KeypadState = 9)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
 
 /*
 Auto completion
-!!! Add condition with Shift + X or Shift + D before completion and leave after escape or clic
 */
 
+AutoCompletion := 0
+
+; Access the auto completion from these shortcuts
+    :*c:X::
+        SendInput, X{Left}{Right}
+        AutoCompletion := 1
+    Return
+    :*c:W::
+        SendInput, W{Left}{Right}
+        AutoCompletion := 1
+    Return
+    :*c:D::
+        SendInput, D{Left}{Right}
+        AutoCompletion := 1
+    Return
+
+; !!! link the auto completion to a dictionnary ?
 ; global vocaulary
-    :*:sem::sempre 
+    :*:sem::
+        If (Autocompletion = 1)
+            SendInput, sempre
+        Else
+            SendInput, sem
+    Return 
 
 
 ; playing techniques
-    :*:bar::bartók pizz.
-    :*:sts::staccatissimo
+    :*:bar::
+        If (Autocompletion = 1)
+            SendInput, bartók pizz.
+        Else
+            SendInput, bar
+    Return 
+    :*:sts::
+        If (Autocompletion = 1)
+            SendInput, staccatissimo
+        Else
+            SendInput, sts
+    Return 
 
 ; expressions
-    :*:esp::espressivo
-
+    :*:esp::
+        If (Autocompletion = 1)
+            SendInput, espressivo
+        Else
+            SendInput, esp
+    Return 
