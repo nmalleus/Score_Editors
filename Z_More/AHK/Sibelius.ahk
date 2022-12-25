@@ -54,7 +54,11 @@ F12::
     SendInput, {F12}
     KeypadState := 12
 Return
-^F9::   ; faking Keypad state to stay on this panel
+^F8::   ; faking Keypad state to stay on this panel
+    SendInput, {F8}
+    KeypadState := 7
+Return
+^F9::
     SendInput, {F9}
     KeypadState := 7
 Return
@@ -62,7 +66,18 @@ Return
     SendInput, R
     KeypadState := 7
 Return
-
+^F10::
+    SendInput, {F10}
+    KeypadState := 7
+Return
+^F11::
+    SendInput, {F11}
+    KeypadState := 7
+Return
+^F12::
+    SendInput, {F12}
+    KeypadState := 7
+Return
 
 /*
 Going back to F7 after:
