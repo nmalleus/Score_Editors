@@ -12,8 +12,8 @@
  - [Selection & Navigation](#selection--navigation)
  - [View & Windows](#view--windows)
 
-* this key commands only works with Nelson's *AHK* assistant for *Sibelius*.
-https://github.com/nmalleus/Score_Editors/blob/master/Z_More/AHK/Sibelius.ahk
+Name* indicates this key commands only works with Nelson's *AHK* assistant for *Sibelius*:
+ - https://github.com/nmalleus/Score_Editors/blob/master/Z_More/AHK/Sibelius.ahk
 
 ## General
 | Action                                 | Keycommand                |
