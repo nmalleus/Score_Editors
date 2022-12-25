@@ -4,8 +4,7 @@ Works with Nelson's custom keycommands
 !!! indicates passages that need to be optimized, updated, corrected or created.
  - Initialization
  - Global commands
- - Going back to F7 after writting tremolos
- - Staying to F9 after writting tremolos
+ - Going back to F7 after...
  - Auto completion
 */
 
