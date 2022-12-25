@@ -12,6 +12,9 @@
  - [Selection & Navigation](#selection--navigation)
  - [View & Windows](#view--windows)
 
+* this key commands only works with Nelson's *AHK* assistant for *Sibelius*.
+https://github.com/nmalleus/Score_Editors/blob/master/Z_More/AHK/Sibelius.ahk
+
 ## General
 | Action                                 | Keycommand                |
 | -------------------------------------- | ------------------------- |
@@ -218,9 +221,15 @@
 | Note input options                     | `Ctrl+Shift+I`          |
 | Transport                              | `F2`                    |
 | Mixer                                  | `F3`                    |
-| Sibelius satellite 1                   | `F5` or `F7`            |
-| Sibelius satellite 2                   | `F8`                    |
-| Sibelius satellite 3                   | `F9`                    |
-| Sibelius satellite 4                   | `F10`                   |
-| Sibelius satellite 5                   | `F11`                   |
-| Sibelius satellite 6                   | `F12`                   |
+| Sibelius keypad 1                      | `F5` or `F7`            |
+| Sibelius keypad 2                      | `F8`                    |
+| Sibelius keypad 3                      | `F9` or `Shift+R`       |
+| Sibelius keypad 4                      | `F10`                   |
+| Sibelius keypad 5                      | `F11`                   |
+| Sibelius keypad 6                      | `F12`                   |
+| Force Sibelius keypad 1*               | `Ctrl+F7`               |
+| Force Sibelius keypad 2*               | `Ctrl+F8`               |
+| Force Sibelius keypad 3*               | `Ctrl+F9` or `Ctrl+Shift+R`|
+| Force Sibelius keypad 4*               | `Ctrl+F10`              |
+| Force Sibelius keypad 5*               | `Ctrl+F11`              |
+| Force Sibelius keypad 6*               | `Ctrl+F12`              |
