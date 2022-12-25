@@ -49,7 +49,7 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
 ## Future updates
 
 ### Global updates
- - Finish popovers
+ - Finish *Dorico* popovers
 
 ### Missing shortcuts
  - Erease background
@@ -61,21 +61,18 @@ Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
  - Macro for * + - on H for *Sibelius*
 
 ### Other updates
- - *senza dim.* in *Dorico*
+ - *senza dim.*, *simile* as dynamic in *Dorico*
  - List Dorico popovers
- - Place harp pedaling above system
+ - Place harp pedaling bellow system
  - Ctrl + Maj : no keyboard change on *Windows*
  - TO DORICO: popover suggestions
- - Show System Break Signpost *Dorico*
  - How to negative bar number in *Dorico*
  - Never link dynamics or ties *Dorico*
  - Dorico Notation Options (Flow) : Beam Grouping
     - Simple blah blah... last : 1→2
     - Secondary Beam Groups : 1→2 & 2→2
  - *RoboBasket*: add SATB sorting
- - *Dorico* exporting tools would be nice
- - *Sibelius*: auto F7 after Shift R then Number
- - *AHK* : script with App, F7 after repetition for *Sibelius*, autocompletion
+ - *Dorico* better exporting tools would be nice
 
 ## About Nelson
 
