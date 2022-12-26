@@ -12,10 +12,12 @@ Works with Nelson's custom keycommands
 Initialization
 */
 
-#NoEnv
 #SingleInstance, Force
-#If WinActive("ahk_exe sibelius.exe")
+#Persistent
+#NoEnv
+;#If WinActive("ahk_exe sibelius.exe")
 KeypadState := 7
+AutoCompletion := 0
 
 /*
 Global commands
@@ -126,8 +128,6 @@ Return
 Auto completion
 */
 
-AutoCompletion := 0
-
 ; Access the auto completion from these shortcuts
     :*c:X::
         SendInput, X{Left}{Right}
@@ -141,7 +141,7 @@ AutoCompletion := 0
         SendInput, D{Left}{Right}
         AutoCompletion := 1
     Return
-
+    
 ; !!! link the auto completion to a dictionnary ?
 ; global vocaulary
     :*:sem::
