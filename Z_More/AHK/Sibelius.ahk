@@ -8,24 +8,31 @@ Works with Nelson's custom keycommands
  - Auto completion
 */
 
-/*
-Initialization
-*/
 
+; ----- INITIALIZATION ----- ;
+
+#NoEnv
 #SingleInstance, Force
 #Persistent
-#NoEnv
 ;#If WinActive("ahk_exe sibelius.exe")
+
+SendMode, Input
+SetBatchLines, -1
+SetWorkingDir, %A_ScriptDir%
+
 KeypadState := 7
 AutoCompletion := 0
 
-/*
-Global commands
-*/
+; ----- GLOBAL COMMANDS ----- ;
 
 Esc::
     SendInput, {Esc}
-    AutoCompletion := 0
+    If (Autocompletion = 1)
+    {
+        Process, Close, % CSVExpPID
+        AutoCompletion := 0
+        DetectHiddenWindows, Off
+    }
 Return
 
 F7::
@@ -81,9 +88,9 @@ Return
     KeypadState := 7
 Return
 
-/*
-Going back to F7 after:
- - writting tremolos
+
+; ----- GOING BACK TO F7 AFTER... ----- ;
+/* - writting tremolos
  - !!! think about more usefull Keypad resets
 Use Ctrl+F8/F9/F10/F11/F12 or Ctrl+Shift+R to stay longer in this keypad
 */
@@ -132,44 +139,14 @@ Auto completion
     :*c:X::
         SendInput, X{Left}{Right}
         AutoCompletion := 1
+        Run, CSV_Expander.ahk, , , CSVExpPID
     Return
     :*c:W::
         SendInput, W{Left}{Right}
         AutoCompletion := 1
+        Run, CSV_Expander.ahk, , , CSVExpPID
     Return
     :*c:D::
         SendInput, D{Left}{Right}
-        AutoCompletion := 1
+        Run, CSV_Expander.ahk, , , CSVExpPID
     Return
-    
-; !!! link the auto completion to a dictionnary ?
-; global vocaulary
-    :*:sem::
-        If (Autocompletion = 1)
-            SendInput, sempre
-        Else
-            SendInput, sem
-    Return 
-
-
-; playing techniques
-    :*:bar::
-        If (Autocompletion = 1)
-            SendInput, bartók pizz.
-        Else
-            SendInput, bar
-    Return 
-    :*:sts::
-        If (Autocompletion = 1)
-            SendInput, staccatissimo
-        Else
-            SendInput, sts
-    Return 
-
-; expressions
-    :*:esp::
-        If (Autocompletion = 1)
-            SendInput, espressivo
-        Else
-            SendInput, esp
-    Return 
