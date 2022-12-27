@@ -30,7 +30,7 @@ Do not hesitate to write to me at nelson@inouisamples.com (fr/en)
  - Popover list:
      - https://github.com/nmalleus/Score_Editors/blob/master/Dorico/Popovers.md
 
-### Dorico Files
+### Installation
 
 Put these files...
 
@@ -45,7 +45,7 @@ __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 4`
  - Plugin selection:
      - https://github.com/nmalleus/Score_Editors/blob/master/Sibelius/Plugin_Selection.md
 
-### Sibelius Files
+### Installation
 
 Put these files...
 
