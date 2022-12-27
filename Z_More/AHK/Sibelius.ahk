@@ -14,7 +14,7 @@ Works with Nelson's custom keycommands
 #NoEnv
 #SingleInstance, Force
 #Persistent
-;#If WinActive("ahk_exe sibelius.exe")
+#If WinActive("ahk_exe sibelius.exe")
 
 SendMode, Input
 SetBatchLines, -1
@@ -31,7 +31,6 @@ Esc::
     {
         Process, Close, % CSVExpPID
         AutoCompletion := 0
-        DetectHiddenWindows, Off
     }
 Return
 
@@ -131,9 +130,7 @@ Numpad5::
     Return
 Return
 
-/*
-Auto completion
-*/
+; ----- AUTO COMPLETION ----- ;
 
 ; Access the auto completion from these shortcuts
     :*c:X::
