@@ -33,8 +33,11 @@ Do not hesitate to write to me at nelson@inouisamples.com (fr/en)
 ### Dorico Files
 
 Put these files...
+
 Keyboard shortcuts: *keycommands_en.json*
+
 ... into these folders:
+
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 4`  
 __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 4`
 
