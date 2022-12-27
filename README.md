@@ -117,7 +117,7 @@ https://www.robobasket.com/
 
 I'm passionate about orchestration and engraving since I was 15... and I've been perfecting my workflow ever since!
 
-If you were able to find this file, I'm happy to share my *Dorico* and *Sibelius* preferences with you.
+If you were able to find this folder, I'm happy to share my *Dorico* and *Sibelius* preferences with you.
 Feel free to suggest optimizations.
 
 Website: https://www.nelsonmalleus.com
