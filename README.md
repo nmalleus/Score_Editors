@@ -56,9 +56,33 @@ Put these files...
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`  
 __Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
 
-## Installation
+## Complementary installations
 
+### AHK Scripts - Windows users only
 
+After intalling *AutoHotKey* from their website:
+https://www.autohotkey.com/
+
+Download from `Score_Editors/Z_More/AHK/`:
+ - *CSV_Expander.ahk*
+ - *Dorico4.ahk* if you plan to use it with *Dorico*
+ - *Expander_Dictionary.csv*
+ - *Sibelius.ahk* if you plan to use it with *Sibelius*
+
+ - Store these files in the same folder on your PC.
+ - Run *Dorico4.ahk* when you want to use it with *Dorico*
+ - Run *Sibelius.ahk* when you want to use it with *Sibelius*
+
+### Robobasket - Windows users only
+
+After installing *RoboBasket* from their website:
+https://www.robobasket.com/
+
+ - Download `Sort_Sibelius_files.xml` from `Score_Editors/Z_More/RoboBasket/`
+ - Run *RoboBasket*
+ - Click on *Rules* / *Restore Rules*
+ - Select `Sort_Sibelius_files.xml` and click open
+ - *Are you sure to overwrite the current settings?* → OK
 
 ## Future updates
 
