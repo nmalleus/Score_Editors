@@ -31,10 +31,12 @@ Do not hesitate to write to me at nelson@inouisamples.com (fr/en)
      - https://github.com/nmalleus/Score_Editors/blob/master/Dorico/Popovers.md
 
 ### Dorico Files
+
+Put these files...
+Keyboard shortcuts: *keycommands_en.json*
+... into these folders:
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 4`  
 __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 4`
-
-Keyboard shortcuts: *keycommands_en.json*
 
 ## Sibelius
  - Plugin selection:
@@ -45,6 +47,10 @@ __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`
 __Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
 
 Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
+
+## Installation
+
+
 
 ## Future updates
 
