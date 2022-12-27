@@ -68,7 +68,7 @@ Download from `Score_Editors/Z_More/AHK/`:
  - *Dorico4.ahk* if you plan to use it with *Dorico*
  - *Expander_Dictionary.csv*
  - *Sibelius.ahk* if you plan to use it with *Sibelius*
-
+Then:
  - Store these files in the same folder on your PC.
  - Run *Dorico4.ahk* when you want to use it with *Dorico*
  - Run *Sibelius.ahk* when you want to use it with *Sibelius*
@@ -78,10 +78,10 @@ Download from `Score_Editors/Z_More/AHK/`:
 After installing *RoboBasket* from their website:
 https://www.robobasket.com/
 
- - Download `Sort_Sibelius_files.xml` from `Score_Editors/Z_More/RoboBasket/`
+ - Download *Sort_Sibelius_files.xml* from `Score_Editors/Z_More/RoboBasket/`
  - Run *RoboBasket*
  - Click on *Rules* / *Restore Rules*
- - Select `Sort_Sibelius_files.xml` and click open
+ - Select *Sort_Sibelius_files.xml*`* and click open
  - *Are you sure to overwrite the current settings?* → OK
 
 ## Future updates
