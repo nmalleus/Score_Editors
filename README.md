@@ -68,6 +68,7 @@ Download from `Score_Editors/Z_More/AHK/`:
  - *Dorico4.ahk* if you plan to use it with *Dorico*
  - *Expander_Dictionary.csv*
  - *Sibelius.ahk* if you plan to use it with *Sibelius*
+
 Then:
  - Store these files in the same folder on your PC.
  - Run *Dorico4.ahk* when you want to use it with *Dorico*
