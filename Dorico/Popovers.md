@@ -27,10 +27,10 @@ Updated from version 3.1, January 2020
 | Delete bars                      | `-`+`Number`                  |
 | Add time                        | `+`+`Number` with `v=s/e/q/h/w`|
 | Delete time                     | `-`+`Number` with `v=s/e/q/h/w`|
-| Bar rest                               | rest                    |
-| Single barline                         | single                  |
-| Double barline                         | double                  |
-| Triple barline                         | triple                  |
+| Bar rest                               | `rest`                    |
+| Single barline                         | `single`                  |
+| Double barline                         | `double`                  |
+| Triple barline                         | `triple`                  |
 | Dashed barline                         | dash                    |
 | Tick barline                           | tick                    |
 | Short top barline                      | shorttop                |
