@@ -60,7 +60,7 @@ Updated from version 3.1, January 2020
 | ppp→mp→ff                              | `p` `m` `f`             |
 | sfz / sf / fz / sffz                   | `s` `f` `z`             |
 | (f)                                    | `(f)`                   |
-| hairspins                              | `<` `>` `<`+`>` `>`+`<` |
+| hairspins                              | `<` / `>` / `<>` / `><` |
 | cresc. / dim. / decresc.            | `cresc.` `dim.` `decresc.` |
 |                                        |                         |
 |                                        |                         |
