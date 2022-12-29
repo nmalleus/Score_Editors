@@ -129,51 +129,50 @@ Numpad5::
         KeypadState = 7
     Return
 Return
-Numpad6:
+Numpad6::
     Send {Numpad6}
     If (KeypadState = 8)
         SendInput, {F7}
         KeypadState = 7
     Return
 Return
-Numpad7:
+Numpad7::
     Send {Numpad7}
     If (KeypadState = 8)
         SendInput, {F7}
         KeypadState = 7
     Return
 Return
-Numpad8:
+Numpad8::
     Send {Numpad8}
     If (KeypadState = 8)
         SendInput, {F7}
         KeypadState = 7
     Return
 Return
-Numpad9:
+Numpad9::
     Send {Numpad9}
     If (KeypadState = 8)
         SendInput, {F7}
         KeypadState = 7
     Return
 Return
-NumpadDiv:
-    Send {NumpadDiv} ;NOT WOKING !!!
-    MsgBox, Divvvv
+NumpadDiv::
+    Send {NumpadDiv}
     If (KeypadState = 8)
         SendInput, {F7}
         KeypadState = 7
     Return
 Return
-NumpadMult:
-    Send {NumpadMult} ;NOT WOKING !!!
+NumpadMult::
+    Send {NumpadMult}
     If (KeypadState = 8)
         SendInput, {F7}
         KeypadState = 7
     Return
 Return
 NumpadSub:
-    Send {NumpadSub} ;NOT WOKING !!!
+    Send {NumpadSub}
     If (KeypadState = 8)
         SendInput, {F7}
         KeypadState = 7
