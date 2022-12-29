@@ -42,6 +42,8 @@ Updated from version 3.1, January 2020
 
 ## Clefs and octave lines **Shift+C**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 | Treble G clef                          | `g` + opt `Number`      |
 | Bass F clef                            | `f` + opt `Number`      |
 | Ut 1→5 clef                            | `c` + `Number`          |
@@ -53,6 +55,8 @@ Updated from version 3.1, January 2020
 
 ## Dynamics **Shift+D**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 | ppp→mp→ff                              | `p` `m` `f`             |
 | sfz / sf / fz / sffz                   | `s` `f` `z`             |
 | (f)                                    | `(f)`                   |
@@ -66,6 +70,8 @@ Updated from version 3.1, January 2020
 
 ## Fingering **Shift+F**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -80,6 +86,8 @@ Updated from version 3.1, January 2020
 
 ## Holds nd pauses **Shift+H**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -93,6 +101,8 @@ Updated from version 3.1, January 2020
 
 ## Intervals and transposition **Shift+I**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -106,6 +116,8 @@ Updated from version 3.1, January 2020
 
 ## Key Signatures **Shift+K**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -119,6 +131,8 @@ Updated from version 3.1, January 2020
 
 ## Lyrics **Shift+L**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -132,6 +146,8 @@ Updated from version 3.1, January 2020
 
 ## Time signatures **Shift+M**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -145,6 +161,8 @@ Updated from version 3.1, January 2020
 
 ## Ornaments **Shift+O**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -158,6 +176,8 @@ Updated from version 3.1, January 2020
 
 ## Repeats and tremolos **Shift+R**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -171,6 +191,8 @@ Updated from version 3.1, January 2020
 
 ## Chords symbols **Shift+Q**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -184,6 +206,8 @@ Updated from version 3.1, January 2020
 
 ## Tempo **Shift+T**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -197,6 +221,8 @@ Updated from version 3.1, January 2020
 
 ## Cues **Shift+U**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
@@ -210,6 +236,8 @@ Updated from version 3.1, January 2020
 
 ## Playing techniques **Shift+W** instead of **Shift+P**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
