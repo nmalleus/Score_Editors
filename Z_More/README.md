@@ -22,4 +22,4 @@ All the files have to be in the same folder to work.
     - Going back to the F7 keypad in these cases:
         - `F8` / `4` `5` `6` `7` `8` `9` `/` `*` `-`
         - `F9` / `1` `2` `3` `4` `5`
-        - press `Ctrl+F8` or `Ctrl+F9` to ignore the auto back to F7 keypad.
+        - press `Ctrl+F8` or `Ctrl+F9` to ignore auto back to the F7 keypad.
