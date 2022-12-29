@@ -2,6 +2,9 @@ CONDENSED,EXPANDED
 GLOBAL VOCABULARY,GLOBAL VOCABULARY
 sem,sempre
 PLAYING TECHNIQUES,PLAYING TECHNIQUES
+TUTTI,TUTTI
+overp,overpressure
+STRINGS,STRINGS
 sul t,sul tasto
 sul p,sul pont.
 flauta,flautando
@@ -9,5 +12,8 @@ sts,staccatissimo
 colb,col legno battuto
 colt,col legno tratto
 bar,bartók pizz.
+VOICES,VOICES
+bocca c,bocca chiusa
 EXPRESSIONS,EXPRESSIONS
 esp,espressivo
+senza f,senza forzare
