@@ -15,11 +15,11 @@
 
 All the files have to be in the same folder to work.
 
- - Dorico4.ahk:
+ - *Dorico4.ahk*:
     - Text expander
- - Sibelius.ahk:
+ - *Sibelius.ahk*:
     - Text expander
     - Going back to the F7 Keypad in these cases:
-        - `F8` / `4``5``6``7``8``9``/``*``-`
+        - `F8` / `4` `5``6``7``8``9``/``*``-`
         - `F9` / `1``2``3``4``5`
         - press `Ctrl+F8` or `Ctrl+F9` to ignore the auto back.
