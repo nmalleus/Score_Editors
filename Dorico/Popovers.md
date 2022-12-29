@@ -23,37 +23,202 @@ Updated from version 3.1, January 2020
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-| Add bars                         | `+`+`Number` or `Nummber      |
+| Add bars                         | `+`+`Number` or `Number`      |
 | Delete bars                      | `-`+`Number`                  |
-|                                        |                         |
-...
-
+| Add time                       | `+`+``Number` with `v=s/e/q/h/w`|
+| Delete time                    | `-`+``Number` with `v=s/e/q/h/w`|
+| Bar rest                               | rest                    |
+| Single barline                         | single                  |
+| Double barline                         | double                  |
+| Triple barline                         | triple                  |
+| Dashed barline                         | dash                    |
+| Tick barline                           | tick                    |
+| Short top barline                      | shorttop                |
+| Short barline                          | short                   |
+| Start repeat barline                   | start                   |
+| End repeat barline                     | end                     |
+| End start repeat barline               | endstart                |
+| Final barline                          | final                   |
 
 ## Clefs and octave lines **Shift+C**
 
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
 ## Dynamics **Shift+D**
+
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
 
 ## Fingering **Shift+F**
 
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
 ## Holds nd pauses **Shift+H**
+
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
 
 ## Intervals and transposition **Shift+I**
 
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
 ## Key Signatures **Shift+K**
+
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
 
 ## Lyrics **Shift+L**
 
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
 ## Time signatures **Shift+M**
+
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
 
 ## Ornaments **Shift+O**
 
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
 ## Repeats and tremolos **Shift+R**
+
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
 
 ## Chords symbols **Shift+Q**
 
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
 ## Tempo **Shift+T**
+
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
 
 ## Cues **Shift+U**
 
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
 ## Playing techniques **Shift+W** instead of **Shift+P**
 
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
