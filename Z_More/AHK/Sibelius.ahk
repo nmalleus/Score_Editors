@@ -117,18 +117,75 @@ Numpad3::
 Return
 Numpad4::
     Send {Numpad4}
-    If (KeypadState = 9)
+    If (KeypadState = 8 or KeypadState = 9)
         SendInput, {F7}
         KeypadState = 7
     Return
 Return
 Numpad5::
     Send {Numpad5}
-    If (KeypadState = 9)
+    If (KeypadState = 8 or KeypadState = 9)
         SendInput, {F7}
         KeypadState = 7
     Return
 Return
+Numpad6:
+    Send {Numpad6}
+    If (KeypadState = 8)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+Numpad7:
+    Send {Numpad7}
+    If (KeypadState = 8)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+Numpad8:
+    Send {Numpad8}
+    If (KeypadState = 8)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+Numpad9:
+    Send {Numpad9}
+    If (KeypadState = 8)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+NumpadDiv:
+    Send {NumpadDiv} ;NOT WOKING !!!
+    MsgBox, Divvvv
+    If (KeypadState = 8)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+NumpadMult:
+    Send {NumpadMult} ;NOT WOKING !!!
+    If (KeypadState = 8)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+NumpadSub:
+    Send {NumpadSub} ;NOT WOKING !!!
+    If (KeypadState = 8)
+        SendInput, {F7}
+        KeypadState = 7
+    Return
+Return
+/*NumpadAdd:
+    Send {NumpadAdd}
+Return
+NumpadEnter:
+    Send {NumpadEnter}
+Return
+*/
 
 ; ----- AUTO COMPLETION ----- ;
 

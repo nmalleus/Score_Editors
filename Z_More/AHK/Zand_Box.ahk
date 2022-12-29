@@ -20,7 +20,7 @@ Initialization
 KeypadState := 7
 AutoCompletion := 0
 
-
+NumpadDiv:: MsgBox, Heyyyy
 
 
 /*
