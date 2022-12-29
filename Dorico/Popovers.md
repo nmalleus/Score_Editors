@@ -47,7 +47,7 @@ Updated from version 3.1, January 2020
 | Treble G clef                          | `g` + opt `Number`      |
 | Bass F clef                            | `f` + opt `Number`      |
 | Ut 1→5 clef                            | `c` + `Number`          |
-| 15ma, 8va, 8ba, 15ba               | `...` + `15ma/8va/8ba/15ba` |
+| 15ma, 8va, 8ba, 15ba                 | `...`+`15ma/8va/8ba/15ba` |
 | Unpitched percussion                   | `perc`                  |
 | 4-strings tablature                    | `tab4`                  |
 | 6-strings tablature                    | `tab6`                  |
@@ -61,12 +61,11 @@ Updated from version 3.1, January 2020
 | sfz / sf / fz / sffz                   | `s` `f` `z`             |
 | (f)                                    | `(f)`                   |
 | hairspins                              | `<` / `>` / `<>` / `><` |
+| da niente / al niente                  | `n<` / `>n`             |
 | cresc. / dim. / decresc.            | `cresc.` `dim.` `decresc.` |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| poco a poco                            | `...`+`poco a poco`     |
+| il più/ più / meno / poco / molto      | `Text`                  |
+| subito / possibile / sempre            | `Text`                  |
 
 ## Fingering **Shift+F**
 
@@ -88,46 +87,34 @@ Updated from version 3.1, January 2020
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| Fermata                                | `ferm`                  |
+| (Very) short/long fermata         | `very`+`short`/`long`+`ferm` |
+| Henze short fermata                    | `shorthenzeferm`        |
+| Henze long fermata                     | `longhenzeferm`         |
+| Caesura                                | `//`                    |
+| Thick / curved / short caesura    | `thick`/`curved`/`short`+`//`|
+| Tick breathmark                        | `breathmarktick`        |
+| Comma breathmark                       | `,`                     |
+| Salzedo breathmark                     | `breathmarksalzedo`     |
+| Curlew                                 | `curlew`                |
 
 ## Intervals and transposition **Shift+I**
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| (Quality) interval                  | (`d/m/M/a`) (`-`) `Number` |
+| Multiple intervals from signle note    | `Int1,Int2,Int3...`     |
+| One note relative to a chord extrema   | `Int`+` bottom`/`top`   |
 
 ## Key Signatures **Shift+K**
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| Open or atonal                         | `open` or `atonal`      |
+| Number of sharps                       | `3s` or `2#`            |
+| Number of flats                        | `4f` or `5b`            |
+| Major keys                             | `C`, `F#`, `Bb`...      |
+| Minor keys                             | `c`, `f#`, `bb`...      |
 
 ## Lyrics **Shift+L**
 
@@ -148,31 +135,31 @@ Updated from version 3.1, January 2020
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| Simple time signature                  | `4/4`/`6/8`             |
+| Specify beat grouoping (hidden)        | `[2+3]/4`               |
+| Additive time signature                | `2+3/4`                 |
+| Aggregate time signature               | `2/4|6/8`               |
+| Interchangeable time signature ()      | `2/4 (6/8)` with space  |
+| Interchangeable time signature /       | `2/4 / 6/8` with spaces |
+| Alternating                            | `3/4 + 6/8` with spaces |
+| Open meter                             | `X`/`open`              |
+| Pick-up (one eight in each example)    | `4/4,0.5`/`6/8,1`       |
+| Common time                            | `c`                     |
+| Cut common time                        | `cutc`                  |
 
 ## Ornaments **Shift+O**
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| Trill (+ interval)                     | `tr`(+`m2`)             |
+| Mordent                                | `mor`                   |
+| Turn / Inverted turn                   | `turn`/`invturn`        |
+| Straight / wavy glissando              | `gliss`/`glisswavy`     |
+| Arpeggio / downward arpeggio           | `apr`/`downarp`         |
+| Non arpeggio / Curved arpeggio         | `nonarp`/`slurarp`      |
+| Flip / Smear / Bend (jazz) / Jazz turn | `flip`/`smear`/`brassbend`/`shake` |
+| Plop / Scoop / Lift / Doit / Fall      | `plop`/`scoop`/`lift`/`doit`/`fall`|
+| Guitar bend                            | `bend`                  |
 
 ## Repeats and tremolos **Shift+R**
 
