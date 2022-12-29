@@ -27,39 +27,37 @@ Updated from version 3.1, January 2020
 | Delete bars                      | `-`+`Number`                  |
 | Add time                        | `+`+`Number` with `v=s/e/q/h/w`|
 | Delete time                     | `-`+`Number` with `v=s/e/q/h/w`|
-| Bar rest                               | `rest`                    |
-| Single barline                         | `single`                  |
-| Double barline                         | `double`                  |
-| Triple barline                         | `triple`                  |
-| Dashed barline                         | dash                    |
-| Tick barline                           | tick                    |
-| Short top barline                      | shorttop                |
-| Short barline                          | short                   |
-| Start repeat barline                   | start                   |
-| End repeat barline                     | end                     |
-| End start repeat barline               | endstart                |
-| Final barline                          | final                   |
+| Bar rest                               | `rest`                  |
+| Single barline                         | `single`                |
+| Double barline                         | `double`                |
+| Triple barline                         | `triple`                |
+| Dashed barline                         | `dash`                  |
+| Tick barline                           | `tick`                  |
+| Short top barline                      | `shorttop`              |
+| Short barline                          | `short`                 |
+| Start repeat barline                   | `start`                 |
+| End repeat barline                     | `end`                   |
+| End start repeat barline               | `endstart`              |
+| Final barline                          | `final`                 |
 
 ## Clefs and octave lines **Shift+C**
 
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| Treble G clef                          | `g` + opt `Number`      |
+| Bass F clef                            | `f` + opt `Number`      |
+| Ut 1→5 clef                            | `c` + `Number`          |
+| 15ma, 8va, 8ba, 15ba               | `...` + `15ma/8va/8ba/15ba` |
+| Unpitched percussion                   | `perc`                  |
+| 4-strings tablature                    | `tab4`                  |
+| 6-strings tablature                    | `tab6`                  |
+| Invisible                              | `invisible`             |
 
 ## Dynamics **Shift+D**
 
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| ppp→mp→ff                              | `p` `m` `f`             |
+| sfz / sf / fz / sffz                   | `s` `f` `z`             |
+| (f)                                    | `(f)`                   |
+| hairspins                              | `<` `>` `<`+`>` `>`+`<` |
+| cresc. / dim. / decresc.            | `cresc.` `dim.` `decresc.` |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
