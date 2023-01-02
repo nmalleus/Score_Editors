@@ -4,6 +4,10 @@
 
 ## Preferences
 
+## Windows / MacOS differences
+ - Select voice 1: `Alt+Shift+@` on *MacOS* instead of `Alt+Shift+&`
+ - Some notehead shortcuts may not work on *MacOS*
+
 ### Textures
  - Scores
      - Paper: *Paper, white cotton*
