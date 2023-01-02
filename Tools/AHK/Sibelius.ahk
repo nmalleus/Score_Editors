@@ -201,5 +201,6 @@ Return
     Return
     :*c:D::
         SendInput, D{Left}{Right}
+        AutoCompletion := 1
         Run, CSV_Expander.ahk, , , CSVExpPID
     Return
