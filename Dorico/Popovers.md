@@ -23,10 +23,10 @@ Updated from version 3.1, January 2020
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-| Add bars                         | `+`+`Number` or `Number`      |
-| Delete bars                      | `-`+`Number`                  |
-| Add time                        | `+`+`Number` with `v=s/e/q/h/w`|
-| Delete time                     | `-`+`Number` with `v=s/e/q/h/w`|
+| Add bars                               | `+`+`Number` or `Number`|
+| Delete bars                            | `-`+`Number`            |
+| Add time                            | `+`+`Number` + `s/e/q/h/w` |
+| Delete time                         | `-`+`Number` + `s/e/q/h/w` |
 | Bar rest                               | `rest`                  |
 | Single barline                         | `single`                |
 | Double barline                         | `double`                |
@@ -166,16 +166,17 @@ Updated from version 3.1, January 2020
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
 | D.C. (al Fine / Coda)                  | `dc`(+`alc`/`alf`)      |
-| D.S. (al Fine / Coda)                  | `ds(alc/alf)`           |
+| D.S. (al Fine / Coda)                  | `ds`(+`alc`/`alf`)      |
 | To Coda                                | `tc`                    |
 | Segno                                  | `s`                     |
 | Coda                                   | `c`                     |
 | Fine                                   | `f`                     |
-| Tremolo strokes                        | `1`/`2`/`3`/`4`         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| Single-stem tremolo                    | `1`/`2`/`3`/`4`         |
+| Multi-stem tremolo                     | `12`/`22`/`32`/`42`     |
+| New repeat ending                      | `end`                   |
+| One more repeat ending                 | `add`                   |
+| Slash region                           | `slash`                 |
+| Bar repeat region                      | `%`/`%2`/`%4`           |
 
 ## Chords symbols **Shift+Q**
 
@@ -191,24 +192,33 @@ Updated from version 3.1, January 2020
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
 
 ## Tempo **Shift+T**
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| (Indication) + Value = Tempo  |(`Lento`)+`s/e/q/h/w(.)`+`=Number`|
+| accel. / rall.                         | `accel.`/`rall.`        |
+| Tempo equation                | `s/e/q/h/w(.)`+`=`+`s/e/q/h/w(.)`|
+| Swing / Straight                       | `swing...`/`straight`   |
 
 ## Cues **Shift+U**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
+| Instrument name                        | `Inst...`               |
+
+
+## Playing techniques **Shift+W** instead of **Shift+P**
+
+### Piano pedaling
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
 |                                        |                         |
@@ -222,8 +232,63 @@ Updated from version 3.1, January 2020
 |                                        |                         |
 |                                        |                         |
 
-## Playing techniques **Shift+W** instead of **Shift+P**
+### Harp pedaling
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
 
+### Woodwinds
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
+### Brass
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
+### Strings
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+|                                        |                         |
+
+### Percussions
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
 |                                        |                         |
