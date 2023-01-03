@@ -165,12 +165,13 @@ Updated from version 3.1, January 2020
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
-|                                        |                         |
+| D.C. (al Fine / Coda)                  | `dc`(+`alc`/`alf`)      |
+| D.S. (al Fine / Coda)                  | `ds(alc/alf)`           |
+| To Coda                                | `tc`                    |
+| Segno                                  | `s`                     |
+| Coda                                   | `c`                     |
+| Fine                                   | `f`                     |
+| Tremolo strokes                        | `1`/`2`/`3`/`4`         |
 |                                        |                         |
 |                                        |                         |
 |                                        |                         |
