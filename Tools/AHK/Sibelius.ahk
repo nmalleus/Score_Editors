@@ -27,10 +27,15 @@ AutoCompletion := 0
 
 Esc::
     SendInput, {Esc}
-    If (Autocompletion = 1)
+    If (AutocompletionTech = 1)
     {
         Process, Close, % CSVExpPID
-        AutoCompletion := 0
+        AutocompletionTech := 0
+    }
+    If (AutocompletionDyn = 1)
+    {
+        Process, Close, % CSVDynPID
+        AutocompletionDyn := 0
     }
 Return
 
@@ -191,15 +196,16 @@ Return
 ; Access the auto completion from these shortcuts
     :*c:X::
         SendInput, X{Left}{Right}
-        AutoCompletion := 1
+        AutocompletionTech := 1
         Run, ExpandTech.ahk, , , CSVExpPID
     Return
     :*c:W::
         SendInput, W{Left}{Right}
-        AutoCompletion := 1
+        AutocompletionTech := 1
         Run, ExpandTech.ahk, , , CSVExpPID
     Return
     :*c:D::
         SendInput, D{Left}{Right}
-        Run, ExpandDyn.ahk, , , CSVExpPID
+        AutocompletionDyn := 1
+        Run, ExpandDyn.ahk, , , CSVDynPID
     Return
