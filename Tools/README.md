@@ -16,9 +16,11 @@
 All the files have to be in the same folder to work.
 
  - *Dorico4.ahk*:
-    - Text expander
+    - Texts expander
+    - Dynamics expander
  - *Sibelius.ahk*:
     - Text expander
+    - Dynamics expander
     - Going back to the F7 keypad in these cases:
         - `F8` / `4` `5` `6` `7` `8` `9` `/` `*` `-`
         - `F9` / `1` `2` `3` `4` `5`

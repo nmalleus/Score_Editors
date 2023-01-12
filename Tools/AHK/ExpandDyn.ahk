@@ -4,11 +4,11 @@ SendMode, Input
 SetBatchLines, -1
 SetWorkingDir, %A_ScriptDir%
 
-FileRead, ExpanderDictionaryContents, *P65001, *t Expander_Dictionary.csv     ;*P65001 to UTF-8, *t to ignore carriage return
-start   := InStr(ExpanderDictionaryContents, "`n") + 1
+FileRead, DynExpanderDictionaryContents, *P65001, *t ExpandDyn.csv     ;*P65001 to UTF-8, *t to ignore carriage return
+start   := InStr(DynExpanderDictionaryContents, "`n") + 1
 pattern := "ms)(*ANYCRLF)(?<Hot>[^,\n]+),(?<Rep>[^,""\n]+|""(?<RepInner>([^""]|(?<=\\)"")+)"")"
 
-While ( pos := RegExMatch(ExpanderDictionaryContents, pattern, m, start) )
+While ( pos := RegExMatch(DynExpanderDictionaryContents, pattern, m, start) )
 {
 	start := pos + StrLen(m) + 1
 	

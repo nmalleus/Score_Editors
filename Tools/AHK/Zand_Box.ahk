@@ -147,9 +147,9 @@ Auto completion
     Return
 /*
 
-/*
+
 ; !!! link the auto completion to a dictionnary ?
-; global vocaulary
+global vocaulary
     :*:sem::
         If (Autocompletion = 1)
             SendInput, sempre

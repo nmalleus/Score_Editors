@@ -2,10 +2,10 @@
 Nelson MALLEUS AHK assistant for Sibelius
 Works with Nelson's custom keycommands
 !!! indicates passages that need to be optimized, updated, corrected or created.
- - Initialization
- - Global commands
- - Going back to F7 after...
- - Auto completion
+- Initialization
+- Global commands
+- Going back to F7 after...
+- Auto completion
 */
 
 
@@ -90,7 +90,7 @@ Return
 
 ; ----- GOING BACK TO F7 AFTER... ----- ;
 /* - writting tremolos
- - !!! think about more usefull Keypad resets
+- !!! think about more usefull Keypad resets
 Use Ctrl+F8/F9/F10/F11/F12 or Ctrl+Shift+R to stay longer in this keypad
 */
 
@@ -192,15 +192,14 @@ Return
     :*c:X::
         SendInput, X{Left}{Right}
         AutoCompletion := 1
-        Run, CSV_Expander.ahk, , , CSVExpPID
+        Run, ExpandTech.ahk, , , CSVExpPID
     Return
     :*c:W::
         SendInput, W{Left}{Right}
         AutoCompletion := 1
-        Run, CSV_Expander.ahk, , , CSVExpPID
+        Run, ExpandTech.ahk, , , CSVExpPID
     Return
     :*c:D::
         SendInput, D{Left}{Right}
-        AutoCompletion := 1
-        Run, CSV_Expander.ahk, , , CSVExpPID
+        Run, ExpandDyn.ahk, , , CSVExpPID
     Return

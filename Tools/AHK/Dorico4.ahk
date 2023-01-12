@@ -2,9 +2,9 @@
 Nelson MALLEUS AHK assistant for Sibelius
 Works with Nelson's custom keycommands
 !!! indicates passages that need to be optimized, updated, corrected or created.
- - Initialization
- - Global commands
- - Auto completion
+- Initialization
+- Global commands
+- Auto completion
 */
 
 
@@ -27,7 +27,8 @@ Esc::
     SendInput, {Esc}
     If (Autocompletion = 1)
     {
-        Process, Close, % CSVExpPID
+        Process, Close, % CSVExpTechPID
+        Process, Close, % CSVExpDynPID
         AutoCompletion := 0
     }
 Return
@@ -38,14 +39,14 @@ Return
     :*c:X::
         SendInput, X{Left}{Right}
         AutoCompletion := 1
-        Run, CSV_Expander.ahk, , , CSVExpPID
+        Run, ExpandTech.ahk, , , CSVExpTechPID
     Return
     :*c:W::
         SendInput, W{Left}{Right}
         AutoCompletion := 1
-        Run, CSV_Expander.ahk, , , CSVExpPID
+        Run, ExpandTech.ahk, , , CSVExpTechPID
     Return
     :*c:D::
         SendInput, D{Left}{Right}
-        Run, CSV_Expander.ahk, , , CSVExpPID
+        Run, ExpandDyn.ahk, , , CSVExpDynPID
     Return
