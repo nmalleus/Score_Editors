@@ -39,11 +39,6 @@ Return
 
 Enter::
     SendInput, {Enter}
-    If (AutocompletionTech = 1)
-    {
-        Process, Close, % CSVExpPID
-        AutocompletionTech := 0
-    }
     If (AutocompletionDyn = 1)
     {
         Process, Close, % CSVDynPID
