@@ -25,3 +25,7 @@ All the files have to be in the same folder to work.
         - `F8` / `4` `5` `6` `7` `8` `9` `/` `*` `-`
         - `F9` / `1` `2` `3` `4` `5`
         - press `Ctrl+F8` or `Ctrl+F9` to ignore auto back to the F7 keypad.
+
+*AHK* scripts ideas and issues:
+ - must find keys to write `poco` and `più`
+ - `x` does not work to write `fp`
