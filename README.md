@@ -112,7 +112,7 @@ https://www.robobasket.com/
     - Secondary Beam Groups : 1→2 & 2→2
  - *RoboBasket*: add SATB sorting
  - *Dorico* better exporting tools would be nice
- - *AHK*: ShiftD : w→m / x→p / q→sempre
+ - create a dynamic keyboard layout
 
 ## About Nelson
 
