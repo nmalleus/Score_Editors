@@ -30,3 +30,4 @@ All the files have to be in the same folder to work.
  - must find keys to write `poco` and `più`
  - `x` does not work to write `fp`
  - make subscripts icons deseaper after they are closed
+ - leabve auto-completion on mouse click

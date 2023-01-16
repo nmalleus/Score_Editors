@@ -21,7 +21,8 @@ SetBatchLines, -1
 SetWorkingDir, %A_ScriptDir%
 
 KeypadState := 7
-AutoCompletion := 0
+AutocompletionTech := 0
+AutocompletionDyn := 0
 
 ; ----- GLOBAL COMMANDS ----- ;
 

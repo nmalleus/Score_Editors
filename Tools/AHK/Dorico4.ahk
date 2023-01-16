@@ -19,7 +19,8 @@ SendMode, Input
 SetBatchLines, -1
 SetWorkingDir, %A_ScriptDir%
 
-AutoCompletion := 0
+AutocompletionTech := 0
+AutocompletionDyn := 0
 
 ; ----- GLOBAL COMMANDS ----- ;
 
