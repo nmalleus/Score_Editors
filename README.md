@@ -25,6 +25,8 @@ Do not hesitate to write to me at nelson@inouisamples.com (fr/en)
      - http://www.keyboard-layout-editor.com/#/gists/8814118f3b282d2ffc3dfdaac3534f99
  - Ctrl+Alt+Shift:
      - http://www.keyboard-layout-editor.com/#/gists/4e0f99598058720cc784a2fb235b4821
+ - Dynamics expander:
+     - http://www.keyboard-layout-editor.com/#/gists/0ca3238debe65cc375b8a7ced1f0bfd8
 
 ## Dorico
  - Popover list:
@@ -112,7 +114,7 @@ https://www.robobasket.com/
     - Secondary Beam Groups : 1→2 & 2→2
  - *RoboBasket*: add SATB sorting
  - *Dorico* better exporting tools would be nice
- - create a dynamic keyboard layout
+ - *AKH* leave auto completion on mouse click, and dynamics auto completion on ↑/↓
 
 ## About Nelson
 
