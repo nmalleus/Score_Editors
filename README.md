@@ -114,7 +114,7 @@ https://www.robobasket.com/
     - Secondary Beam Groups : 1→2 & 2→2
  - *RoboBasket*: add SATB sorting
  - *Dorico* better exporting tools would be nice
- - *AKH* leave auto completion on mouse click, and dynamics auto completion on ↑/↓
+ - *AKH* leave dynamics auto completion on ↑/↓ ?
 
 ## About Nelson
 

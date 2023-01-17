@@ -40,20 +40,6 @@ Esc::
     }
 Return
 
-LButton::
-    SendInput, {LButton}
-    If (AutocompletionTech = 1)
-    {
-        Process, Close, % CSVExpPID
-        AutocompletionTech := 0
-    }
-    If (AutocompletionDyn = 1)
-    {
-        Process, Close, % CSVDynPID
-        AutocompletionDyn := 0
-    }
-Return
-
 F7::
     SendInput, {F7}
     KeypadState := 7
