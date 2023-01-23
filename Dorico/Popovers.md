@@ -7,7 +7,7 @@ Updated from version 3.1, January 2020
  - [Clefs and octave lines `Shift`+`C`](#clefs-and-octave-lines-shiftc)
  - [Dynamics `Shift`+`D`](#dynamics-shiftd)
  - [Dynamics `Shift`+`D`](#dynamics-shiftd)
- - [Nelson custum dynamics `Shift`+`D`](#nelson-custom-dynamics-shiftd)
+ - [Nelson custom dynamics `Shift`+`D`](#nelson-custom-dynamics-shiftd)
  - [Harp `Ctrl`+`H`](#harp-ctrlh)
  - [Fingering `Shift`+`F`](#fingering-shiftf)
  - [Holds nd pauses `Shift`+`H`](#holds-nd-pauses-shifth)
@@ -72,6 +72,8 @@ Updated from version 3.1, January 2020
 
 ## Nelson custom dynamics **Shift+D**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 | ***m***                                | `s`                     |
 | ***p***                                | `d`                     |
 | ***f***                                | `f`                     |
@@ -90,6 +92,8 @@ Updated from version 3.1, January 2020
 
 ## Harp **Ctrl+H**
 
+| Action                                 | Popover                 |
+| -------------------------------------- | ----------------------- |
 | Harp ♮ pedal *Sib*                     | `Ctrl+Alt+Num7`         |
 | Harp ♯ pedal *Sib*                     | `Ctrl+Alt+Num8`         |
 | Harp ♭ pedal *Sib*                     | `Ctrl+Alt+Num8`         |
