@@ -6,6 +6,9 @@ Updated from version 3.1, January 2020
  - [Bars and barlines `Shift`+`B`](#bars-and-barlines-shiftb)
  - [Clefs and octave lines `Shift`+`C`](#clefs-and-octave-lines-shiftc)
  - [Dynamics `Shift`+`D`](#dynamics-shiftd)
+ - [Dynamics `Shift`+`D`](#dynamics-shiftd)
+ - [Nelson custum dynamics `Shift`+`D`](#nelson-custom-dynamics-shiftd)
+ - [Harp `Ctrl`+`H`](#harp-ctrlh)
  - [Fingering `Shift`+`F`](#fingering-shiftf)
  - [Holds nd pauses `Shift`+`H`](#holds-nd-pauses-shifth)
  - [Intervals and transposition `Shift`+`I`](#intervals-and-transposition-shifti)
@@ -66,6 +69,35 @@ Updated from version 3.1, January 2020
 | poco a poco                            | `...`+`poco a poco`     |
 | il più/ più / meno / poco / molto      | `Text`                  |
 | subito / possibile / sempre            | `Text`                  |
+
+## Nelson custom dynamics **Shift+D**
+
+| ***m***                                | `s`                     |
+| ***p***                                | `d`                     |
+| ***f***                                | `f`                     |
+| ***s***                                | `t`                     |
+| ***z***                                | `g`                     |
+| poco                                   | `a`                     |
+| più                                    | `z`                     |
+| meno                                   | `e`                     |
+| encore                                 | `r`                     |
+| sempre                                 | `q`                     |
+| subito                                 | `w`                     |
+| senza                                  | `x`                     |
+| cresc.                                 | `c`                     |
+| dim.                                   | `v`                     |
+| poco a poco                            | `b`                     |
+
+## Harp **Ctrl+H**
+
+| Harp ♮ pedal *Sib*                     | `Ctrl+Alt+Num7`         |
+| Harp ♯ pedal *Sib*                     | `Ctrl+Alt+Num8`         |
+| Harp ♭ pedal *Sib*                     | `Ctrl+Alt+Num8`         |
+| Harp pedal separato *Sib*              | `Ctrl+Alt+Num+`         |
+| Harp ♮ pedal *Dco*                     | `-`                     |
+| Harp ♯ pedal *Dco*                     | `v`                     |
+| Harp ♭ pedal *Dco*                     | `^`                     |
+| Harp pedal separato *Dco*              | `|`                     |
 
 ## Fingering **Shift+F**
 
