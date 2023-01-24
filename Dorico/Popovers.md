@@ -83,6 +83,8 @@ Updated from version 3.1, January 2020
 | più                                    | `z`                     |
 | meno                                   | `e`                     |
 | encore                                 | `r`                     |
+| il                                     | `é`                     |
+| possibile                              | `"`                     |
 | sempre                                 | `q`                     |
 | subito                                 | `w`                     |
 | senza                                  | `x`                     |
@@ -101,7 +103,7 @@ Updated from version 3.1, January 2020
 | Harp ♮ pedal *Dco*                     | `-`                     |
 | Harp ♯ pedal *Dco*                     | `v`                     |
 | Harp ♭ pedal *Dco*                     | `^`                     |
-| Harp pedal separato *Dco*              | `|`                     |
+| Harp pedal separato *Dco*              | `vertical`              |
 
 ## Fingering **Shift+F**
 
