@@ -103,6 +103,7 @@ https://www.robobasket.com/
 
 ### Other updates
  - *senza dim.*, *simile* as dynamic in *Dorico*
+ - Shortcut cautionary accidentals
  - List Dorico popovers (fingering, lyrics, chords and playing techniques are missing)
  - Place harp pedaling bellow system
  - Ctrl + Maj : no keyboard change on *Windows*
