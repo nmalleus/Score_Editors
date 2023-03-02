@@ -109,11 +109,8 @@ https://www.robobasket.com/
  - Ctrl + Maj : no keyboard change on *Windows*
  - TO DORICO: popover suggestions
  - How to negative bar number in *Dorico*
- - Never link dynamics or ties *Dorico*
- - Dorico Notation Options (Flow) : Beam Grouping
-    - Simple blah blah... last : 1→2
-    - Secondary Beam Groups : 1→2 & 2→2
  - *RoboBasket*: add SATB sorting
+ - *RoboBasket*: continue French translation after strings
  - *Dorico* better exporting tools would be nice
  - *AKH* leave dynamics auto completion on ↑/↓ ?
 
