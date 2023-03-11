@@ -110,7 +110,7 @@ https://www.robobasket.com/
  - TO DORICO: popover suggestions
  - How to negative bar number in *Dorico*
  - *RoboBasket*: add SATB sorting
- - *RoboBasket*: continue French translation after strings
+ - *RoboBasket*: continue French translation after percussions
  - *Dorico* better exporting tools would be nice
  - *AKH* leave dynamics auto completion on ↑/↓ ?
 
