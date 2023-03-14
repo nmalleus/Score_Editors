@@ -211,19 +211,19 @@ Return
 ; Access the auto completion from these shortcuts
     :*c:X::
         SendInput, X
-        Sleep, 1
+        Sleep, 5
         AutocompletionTech := 1
         Run, ExpandTech.ahk, , , CSVExpPID
     Return
     :*c:W::
         SendInput, W
-        Sleep, 1
+        Sleep, 5
         AutocompletionTech := 1
         Run, ExpandTech.ahk, , , CSVExpPID
     Return
     :*c:D::
         SendInput, D
-        Sleep, 1
+        Sleep, 5
         AutocompletionDyn := 1
         Run, ExpandDyn.ahk, , , CSVDynPID
     Return
