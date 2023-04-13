@@ -27,7 +27,5 @@ All the files have to be in the same folder to work.
         - press `Ctrl+F8` or `Ctrl+F9` to ignore auto back to the F7 keypad.
 
 *AHK* scripts ideas and issues:
- - must find keys to write `poco` and `più`
  - `x` does not work to write `fp`
- - make subscripts icons deseaper after they are closed
  - leabve auto-completion on mouse click
