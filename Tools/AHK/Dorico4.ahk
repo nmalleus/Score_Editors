@@ -47,6 +47,15 @@ Enter::
     }
 Return
 
+NumpadEnter::
+    SendInput, {Enter}
+    If (AutocompletionDyn = 1)
+    {
+        Process, Close, % CSVDynPID
+        AutocompletionDyn := 0
+    }
+Return
+
 ;LButton::
 ;    SendInput, {LButton}
 ;    If (AutocompletionTech = 1)
@@ -78,7 +87,7 @@ Return
     Return
     :*c:D::
         SendInput, D
-        Sleep, 5
+        Sleep, 3
         AutocompletionDyn := 1
         Run, ExpandDyn.ahk, , , CSVDynPID
     Return
