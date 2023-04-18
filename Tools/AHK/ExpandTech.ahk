@@ -34,7 +34,9 @@ ReplaceText(replacement)
 	Clipboard := ""
 	Clipboard := replacement
 	ClipWait
-	
+
+	Sleep, 5 ; New, testing to avoid too fast pasting with outdated content
+
 	SendInput, ^v
 	
 	; We have to wait for the app to paste, as in my test, Notepad was too slow and pasted this oldClip contents
