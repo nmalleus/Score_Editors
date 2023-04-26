@@ -48,7 +48,7 @@ Enter::
 Return
 
 NumpadEnter::
-    SendInput, {Enter}
+    SendInput, {NumpadEnter}
     If (AutocompletionDyn = 1)
     {
         Process, Close, % CSVDynPID
