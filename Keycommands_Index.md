@@ -38,6 +38,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 
 ## Modes *Dco*
 | Mode                                   | Keycommand              |
+| -------------------------------------- | ----------------------- |
 | Setup *Dco*                            | `Ctrl+1`                |
 | Write *Dco*                            | `Ctrl+2`                |
 | Engrave *Dco*                          | `Ctrl+3`                |

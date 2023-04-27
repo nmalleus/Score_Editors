@@ -189,7 +189,7 @@ Updated from version 3.1, January 2020
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-| Trill (+ interval)                     | `tr`(+`m2`)             |
+| Trill (+ interval)                     | `tr`(+`⌴m2`)             |
 | Mordent                                | `mor`                   |
 | Turn / Inverted turn                   | `turn`/`invturn`        |
 | Straight / wavy glissando              | `gliss`/`glisswavy`     |
