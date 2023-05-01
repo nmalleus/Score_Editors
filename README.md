@@ -34,11 +34,12 @@ Do not hesitate to write to me at nelson@inouisamples.com (fr/en)
 
 ### Installation
 
-Put these files...
+Put these files and folders...
 
  - Keyboard shortcuts: *keycommands_en.json*
+ - Scripts & macros *Script Plug-ins* directory with the *lua* files
 
-... into these folders:
+... into:
 
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 4`  
 __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 4`
@@ -49,11 +50,11 @@ __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 4`
 
 ### Installation
 
-Put these files...
+Put this files...
 
  - Keyboard shortcuts: *\Keyboard Shortcuts\keycommands_Nelson.sfs*
 
-... into these folders:
+... into:
 
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Avid\Sibelius`  
 __Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
@@ -95,7 +96,6 @@ https://www.robobasket.com/
 ### Missing shortcuts
  - Erease background
  - Unlink dynamics
- - Group dynamics
  - Colors for *Dorico*
  - Is it possible to unmute/unsolo all chanels in *Sibelius*?
  - Add Page ↑/↓ to octave shift while input on *Sibelius*
