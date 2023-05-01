@@ -108,7 +108,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Clef                                   | `Shift+C`               |
 | Key Signature                          | `Shift+K`               |
 | Meter                                  | `Shift+M`               |
-| Apply meter / clef only to one staff / voice | `Alt+Enter`       |
+| Apply meter only to one staff          | `Alt+Enter`             |
+| Apply clef / octava only to one voice  | `Alt+Enter`             |
 | Tempo                                  | `Shift+T`               |
 | Bars                                   | `Shift+B`               |
 | Hold                                   | `Shift+H`               |
