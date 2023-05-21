@@ -66,11 +66,12 @@ __Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
 After intalling *AutoHotKey* from their website:
 https://www.autohotkey.com/
 
-Download from `Score_Editors/Z_More/AHK/`:
+Download from `Score_Editors/Tools/AHK/`:
  - *CSV_Expander.ahk*
  - *Dorico4.ahk* if you plan to use it with *Dorico*
  - *Expander_Dictionary.csv*
  - *Sibelius.ahk* if you plan to use it with *Sibelius*
+ - *French_Special_Characters.ahk* if you use a french keyboard
 
 Then:
  - Store these files in the same folder on your PC.
@@ -82,7 +83,7 @@ Then:
 After installing *RoboBasket* from their website:
 https://www.robobasket.com/
 
- - Download *Sort_Sibelius_files.xml* from `Score_Editors/Z_More/RoboBasket/`
+ - Download *Sort_Sibelius_files.xml* from `Score_Editors/Tools/RoboBasket/`
  - Run *RoboBasket*
  - Click on *Rules* / *Restore Rules*
  - Select *Sort_Sibelius_files.xml*`* and click open
