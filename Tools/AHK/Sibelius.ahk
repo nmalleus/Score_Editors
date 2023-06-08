@@ -227,3 +227,8 @@ Return
         AutocompletionDyn := 1
         Run, ExpandDyn.ahk, , , CSVDynPID
     Return
+
+; Sibelius only auto completion    NOT WORKING !!!
+    ^Numpad0::
+        SendInput, Numpad0
+        SendInput, b
