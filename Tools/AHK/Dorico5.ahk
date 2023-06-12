@@ -13,7 +13,7 @@ Works with Nelson's custom keycommands
 #NoEnv
 #SingleInstance, Force
 #Persistent
-#If WinActive("ahk_exe dorico4.exe")
+#If WinActive("ahk_exe dorico5.exe")
 
 SendMode, Input
 SetBatchLines, -1
