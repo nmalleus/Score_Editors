@@ -39,10 +39,6 @@
 					},
 					
 					{
-						"Edit.PropagateProperties" : [ "Ctrl+Shift+P" ]
-					},
-					
-					{
 						"Edit.SelectAtEndOfFlow" : [ "Ctrl+Alt+Shift+A" ]
 					},
 					
@@ -248,10 +244,6 @@
 					
 					{
 						"Play.UnMuteAll" : [ "Alt+Shift+U", "DELETE:Alt+U" ]
-					},
-					
-					{
-						"Play.ShowPlaybackOptions" : [ "DELETE:Ctrl+Shift+P" ]
 					}
 				]
 			},
@@ -366,6 +358,10 @@
 					
 					{
 						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kDemisemiquaver" : [ "Alt+Num+1" ]
+					},
+					
+					{
+						"Play.ToggleScrubPlayback" : [ "F9" ]
 					},
 					
 					{
@@ -542,7 +538,7 @@
 		]
 	},
 	"delta" : "true",
-	"version" : "4.2.0",
+	"version" : "5.0.10",
 	"windows" : {
 		"contexts" : [
 			

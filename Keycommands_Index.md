@@ -208,6 +208,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | -------------------------------------- | ----------------------- |
 | Play / Stop                            | `Space`                 |
 | Play from selection                    | `P`                     |
+| Scrub mode *Dco*                       | `F9`                    |
 | Show transport                         | `F2`                    |
 | Show mixer                             | `F3`                    |
 | No muted channel *Dco*                 | `Alt+Shift+U`           |
