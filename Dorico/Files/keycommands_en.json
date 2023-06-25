@@ -457,6 +457,22 @@
 					},
 					
 					{
+						"NoteInput.SetAccidental?AccidentalDefinitionID=accidental.24et.western.quarter-sharp.stein" : [ "Ctrl+Alt+Num+5" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?AccidentalDefinitionID=accidental.24et.western.quarter-flat.stein" : [ "Ctrl+Alt+Num+6" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?AccidentalDefinitionID=accidental.24et.western.three-quarters-sharp.stein" : [ "Ctrl+Alt+Num+8" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?AccidentalDefinitionID=accidental.24et.western.three-quarters-flat.stein" : [ "Ctrl+Alt+Num+9" ]
+					},
+					
+					{
 						"NoteInput.StartEndChord" : [ "A", "DELETE:Q" ]
 					},
 					

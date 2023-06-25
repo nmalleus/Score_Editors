@@ -63,7 +63,11 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | ♯                                      | `Num 8`                 |
 | ♭                                      | `Num 9`                 |
 | double ♯                               | `Ctrl+Num 8`            |
-| doubel ♭                               | `Ctrl+Num 9`            | 
+| double ♭                               | `Ctrl+Num 9`            |
+| ¼ ♯                                    | `Ctrl+Alt+Num 5`        |
+| ¾ ♯                                    | `Ctrl+Alt+Num 8`        |
+| ¼ ♭                                    | `Ctrl+Alt+Num 6`        |
+| ¾ ♭                                    | `Ctrl+Alt+Num 9`        |
 | On octave higher                       | `Page ↑`                |
 | On octave lower                        | `Page ↓`                |
 | Add interval                           | `Shift+I`               |
