@@ -101,6 +101,7 @@ https://www.robobasket.com/
  - Is it possible to unmute/unsolo all chanels in *Sibelius*?
  - Add Page ↑/↓ to octave shift while input on *Sibelius*
  - Macro for * + - on H for *Sibelius*
+ - Add "Filter rests" to *Dorico*  with Alt+Shift+²
 
 ### Other updates
  - *senza dim.*, *simile* as dynamic in *Dorico*
