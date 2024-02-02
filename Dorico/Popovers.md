@@ -6,7 +6,6 @@ Updated from version 3.1, January 2020
  - [Bars and barlines `Shift`+`B`](#bars-and-barlines-shiftb)
  - [Clefs and octave lines `Shift`+`C`](#clefs-and-octave-lines-shiftc)
  - [Dynamics `Shift`+`D`](#dynamics-shiftd)
- - [Dynamics `Shift`+`D`](#dynamics-shiftd)
  - [Nelson custom dynamics `Shift`+`D`](#nelson-custom-dynamics-shiftd)
  - [Harp `Ctrl`+`H`](#harp-ctrlh)
  - [Fingering `Shift`+`F`](#fingering-shiftf)

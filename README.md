@@ -41,8 +41,8 @@ Put these files and folders...
 
 ... into:
 
-__Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 4`  
-__Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 4`
+__Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 5`  
+__Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 5`
 
 ## Sibelius
  - Plugin selection:
