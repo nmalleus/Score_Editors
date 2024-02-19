@@ -1,0 +1,5 @@
+local app=DoApp.DoApp()
+app:doCommand([[UI.InvokePaletteButton?PaletteIndicatorID=kOrnamentsGlissandoFlat&PaletteSectionID=kOrnamentsGlissandiPanel&PropertyButton=false&SetOldValue=false&Set=true&UseLocalOverride=0]])
+app:doCommand([[UI.InvokePropertyChangeValue?Type=kGlissandoLineText&Value=string: "kGliss"]])
+app:doCommand([[UI.InvokePropertyChangeValue?Type=kGlissandoLineTextBehaviour&Value=string: "kAlwaysShow"]])
+app:doCommand([[UI.InvokePropertyChangeValue?Type=kGlissandoPlaybackType&Value=string: "kContinuous"]])

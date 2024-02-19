@@ -1,0 +1,6 @@
+local app=DoApp.DoApp()
+app:doCommand([[Window.SwitchMode?WindowMode=kWriteMode]])
+app:doCommand([[Edit.SelectAll]])
+app:doCommand([[Filter.Breaks]])
+app:doCommand([[Edit.Delete]])
+app:doCommand([[Window.SwitchMode?WindowMode=kEngraveMode]])

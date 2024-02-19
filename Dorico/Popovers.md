@@ -7,7 +7,7 @@ Updated from version 3.1, January 2020
  - [Clefs and octave lines `Shift`+`C`](#clefs-and-octave-lines-shiftc)
  - [Dynamics `Shift`+`D`](#dynamics-shiftd)
  - [Nelson custom dynamics `Shift`+`D`](#nelson-custom-dynamics-shiftd)
- - [Harp `Ctrl`+`H`](#harp-ctrlh)
+ - [Harp `Ctrl`+`H` - unused](#harp-ctrlh)
  - [Fingering `Shift`+`F`](#fingering-shiftf)
  - [Holds nd pauses `Shift`+`H`](#holds-nd-pauses-shifth)
  - [Intervals and transposition `Shift`+`I`](#intervals-and-transposition-shifti)
@@ -188,7 +188,8 @@ Updated from version 3.1, January 2020
 
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
-| Trill (+ interval)                     | `tr`(+`⌴m2`)             |
+| Trill (+ interval)                     | `tr`(+`⌴m2`)           |
+| Short trill                            | `short`                 |
 | Mordent                                | `mor`                   |
 | Turn / Inverted turn                   | `turn`/`invturn`        |
 | Straight / wavy glissando              | `gliss`/`glisswavy`     |
@@ -269,7 +270,7 @@ Updated from version 3.1, January 2020
 |                                        |                         |
 |                                        |                         |
 
-### Harp pedaling
+### Harp pedaling - unused
 | Action                                 | Popover                 |
 | -------------------------------------- | ----------------------- |
 |                                        |                         |
