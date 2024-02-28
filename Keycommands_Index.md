@@ -13,6 +13,7 @@
  - [View & Windows](#view--windows)
 
 Use `Cmd` instead of `Ctrl` on *MacOS*.
+
 Name* indicates this key commands only works with Nelson's *AHK* assistant for *Sibelius*:
  - https://github.com/nmalleus/Score_Editors/blob/master/Z_More/AHK/Sibelius.ahk
 
