@@ -193,7 +193,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | -------------------------------------- | ----------------------- |
 | Next layout                            | `Ctrl+>`                |
 | Previous layout                        | `Ctrl+<`                |
-| Close layout                           | `Ctrl+W`                |
+| Close layout *Sib*                     | `Ctrl+W`                |
 | Switch between score & pars *Sib*      | `Ctrl+Alt+W`            |
 | System break                           | `Ctrl+D`                |
 | Frame break                            | `Ctrl+F`                |
@@ -201,14 +201,14 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Make into one frame                    | `Ctrl+Alt+Shift+O`      |
 | Lock system                            | `Ctrl+Alt+Shift+P`      |
 | Lock frame                             | `Ctrl+Alt+Shift+L`      |
-| Reset staff spacing                    | `Ctrl+Alt+Shift+S`      |
-| Reset space between notes              | `Ctrl+Shift+N`          |
+| Reset staff spacing (frame)            | `Ctrl+Alt+Shift+S`      |
+| Reset space between notes *Sib*        | `Ctrl+Shift+N`          |
 | Optimise space between staves *Sib*    | `Ctrl+Alt+Shift+A`      |
 | Graphic edit *Dco*                     | `Ctrl+Alt+Shift+G`      |
 | Note spacing *Dco*                     | `Ctrl+Alt+Shift+J`      |
 | Staff spacing *Dco*                    | `Ctrl+Alt+Shift+J`      |
 | Engraving options                      | `Ctrl+Shift+E`          |
-| Layout options                         | `Ctrl+Shift+E`          |
+| Layout options                         | `Ctrl+Shift+L`          |
 
 ## Playback
 | Action                                 | Keycommand              |
@@ -228,7 +228,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Project Info                           | `Ctrl+I`                |
 | Inspect / Properties                   | `,`                     |
 | Engraving options                      | `Ctrl+Shift+E`          |
-| Layout options                         | `Ctrl+Shift+E`          |
+| Layout options *Dco*                   | `Ctrl+Shift+L`          |
+| Notation options *Dco*                 | `Ctrl+Shift+N`          |
 | Note input options                     | `Ctrl+Shift+I`          |
 | Transport                              | `F2`                    |
 | Mixer                                  | `F3`                    |
