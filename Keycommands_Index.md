@@ -12,6 +12,7 @@
  - [Selection & Navigation](#selection--navigation)
  - [View & Windows](#view--windows)
 
+Use `Cmd` instead of `Ctrl` on *MacOS*.
 Name* indicates this key commands only works with Nelson's *AHK* assistant for *Sibelius*:
  - https://github.com/nmalleus/Score_Editors/blob/master/Z_More/AHK/Sibelius.ahk
 
@@ -22,7 +23,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Open file                              | `Ctrl+O`                  |
 | New file                               | `Ctrl+N`                  |
 | Close project                          | `Ctrl+Shift+W`            |
-| Exit                                   | `Alt+F4`                  |
+| Exit *Win*                             | `Alt+F4`                  |
+| Exit *Mac*                             | `Cmd+Q`                  |
 | Save                                   | `Ctrl+S`                  |
 | Save as                                | `Ctrl+Shift+S`            |
 | Preferences                            | `Ctrl+?`                  |
