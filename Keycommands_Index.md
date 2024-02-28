@@ -80,16 +80,16 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | 𝅘𝅥                                      | `Num 4`                 |
 | 𝅘𝅥𝅮                                      | `Num 3`                 |
 | 𝅘𝅥𝅯                                      | `Num 2`                 |
-| 𝅘𝅥𝅯                                      | `Num 1`                 |
+| 𝅘𝅥𝅰                                      | `Num 1`                 |
 | .                                      | `Num .`                 |
 | Tie                                    | `Num 0`                 |
-| Tuplets                                | `Num Enter`             |
+| Tuplets                                | `Num +`                 |
 | Acciaccatura                           | `C`                     |
 | Force duration *Dco*                   | `O`                     |
 | Lock duration                          | `L`                     |
-| Change voice                           | `V`                     |
+| Next voice                             | `V`                     |
 | New voice *Dco*                        | `Shift+V`               |
-| Paste into voice                       | `Ctrl+Alt+ShiftV`       |
+| Paste into voice                       | `Ctrl+Alt+V`            |
 | Grid size                              | `Alt+Num 1 2 3 4 5 6`   |
 
 ## Complementary inputs
@@ -141,7 +141,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Move                                   | `↑ ↓ ← →`               |
 | Move to previous / Next bar            | `Ctrl+ ← →`             |
 | Jummp *Dco*                            | `J`                     |
-| Go to bar *Dco*                        | `Shift+G`               |
+| Go to bar *Dco*                        | `Ctrl+G`               |
 | Select all                             | `Ctrl+A`                |
 | Select more                            | `Ctrl+Shift+A`          |
 | Extend selection                       | `Shift+ ↑ ↓ ← →`        |
