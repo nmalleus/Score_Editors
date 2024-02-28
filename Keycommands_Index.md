@@ -141,21 +141,20 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Move                                   | `↑ ↓ ← →`               |
 | Move to previous / Next bar            | `Ctrl+ ← →`             |
 | Jummp *Dco*                            | `J`                     |
-| Go to bar *Dco*                        | `Ctrl+G`               |
+| Go to bar *Dco*                        | `Ctrl+G`                |
 | Select all                             | `Ctrl+A`                |
 | Select more                            | `Ctrl+Shift+A`          |
 | Extend selection                       | `Shift+ ↑ ↓ ← →`        |
-| Selct up to end *Dco*                  | `Ctrl+Alt+Shift+A`      |
+| Select up to end *Dco*                 | `Ctrl+Alt+Shift+A`      |
 | Filter top note of chord               | `Alt+Shift+F1`          |
 | Filter 2nd note of chord               | `Alt+Shift+F2`          |
 | Filter 3rd note of chord               | `Alt+Shift+F3`          |
 | Filter bot note of chord               | `Alt+Shift+F4`          |
-| Filter 2nd note of chord               | `Alt+Shift+F2`          |
 | Filter upstem voice 1                  | `Alt+Shift+1`           |
 | Filter downstem voice 1                | `Alt+Shift+2`           |
 | Filter upstem voice 2                  | `Alt+Shift+3`           |
-| Filter downstem voice 2                | `Alt+Shift+3`           |
-| Filter Rests                           | `Alt+Shift+²`           |
+| Filter downstem voice 2                | `Alt+Shift+4`           |
+| Filter Rests                           | `Alt+Shift+²` `Alt+Shift+#`|
 
 ## Transformations
 | Action                                 | Keycommand              |
