@@ -45,9 +45,9 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Setup *Dco*                            | `Ctrl+1`                |
 | Write *Dco*                            | `Ctrl+2`                |
 | Engrave *Dco*                          | `Ctrl+3`                |
-| Graphic editing *Dco*                  | `Ctrl+Alt+Shift+G`      |
-| Note spacing *Dco*                     | `Ctrl+Alt+Shift+J`      |
-| Staff spacing *Dco*                    | `Ctrl+Alt+Shift+J`      |
+| Edit graphically *Dco*                 | `Ctrl+Alt+Shift+G`      |
+| Edit note spacing *Dco*                | `Ctrl+Alt+Shift+J`      |
+| Edit staff spacing *Dco*               | `Ctrl+Alt+Shift+K`      |
 | Play *Dco*                             | `Ctrl+4`                |
 | Print *Dco*                            | `Ctrl+5`                |
 
