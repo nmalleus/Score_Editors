@@ -154,7 +154,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Filter downstem voice 1                | `Alt+Shift+2`           |
 | Filter upstem voice 2                  | `Alt+Shift+3`           |
 | Filter downstem voice 2                | `Alt+Shift+4`           |
-| Filter Rests                           | `Alt+Shift+²` `Alt+Shift+#`|
+| Filter Rests                           | `Alt+Shift+²` *Mac* `Alt+Shift+#`|
 
 ## Transformations
 | Action                                 | Keycommand              |

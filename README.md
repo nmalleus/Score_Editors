@@ -61,6 +61,20 @@ __Mac__: `/Users/username/Library/Application Support/Avid/Sibelius`
 
 ## Complementary installations
 
+### Stream Deck
+
+At this time, the *Stream Deck* profiles are optimised for *Windows* only.
+Download from `Score_Editors/Tools/StreamDeck/`:
+ - *Dorico.streamDeckProfile*
+ - *Sibelius.streamDeckProfile*
+
+In the *Stream Deck* application:
+ - Click on *Edit profiles...*
+ - *Profiles*
+ - Click the down arrow at the very bottom
+ - *Import*
+ - And select the *.streamDeckProfile* you want to import
+
 ### AHK Scripts - Windows users only
 
 After intalling *AutoHotKey* from their website:
