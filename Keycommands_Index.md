@@ -25,7 +25,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | New file                               | `Ctrl+N`                  |
 | Close project                          | `Ctrl+Shift+W`            |
 | Exit *Win*                             | `Alt+F4`                  |
-| Exit *Mac*                             | `Cmd+Q`                  |
+| Exit *Mac*                             | `Cmd+Q`                   |
 | Save                                   | `Ctrl+S`                  |
 | Save as                                | `Ctrl+Shift+S`            |
 | Preferences                            | `Ctrl+?`                  |
@@ -48,8 +48,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Graphic editing *Dco*                  | `Ctrl+Alt+Shift+G`      |
 | Note spacing *Dco*                     | `Ctrl+Alt+Shift+J`      |
 | Staff spacing *Dco*                    | `Ctrl+Alt+Shift+J`      |
-| Play *Dco*                             | `Ctrl+3`                |
-| Print *Dco*                            | `Ctrl+4`                |
+| Play *Dco*                             | `Ctrl+4`                |
+| Print *Dco*                            | `Ctrl+5`                |
 
 ## Note input
 | Input                                  | Keycommand              |
