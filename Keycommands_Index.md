@@ -191,8 +191,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 ## Layout
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
-| Next layout                            | `Ctrl+<`                |
 | Next layout                            | `Ctrl+>`                |
+| Previous layout                        | `Ctrl+<`                |
 | Close layout                           | `Ctrl+W`                |
 | Switch between score & pars *Sib*      | `Ctrl+Alt+W`            |
 | System break                           | `Ctrl+D`                |

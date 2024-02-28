@@ -1,6 +1,6 @@
 # Nelson MALLÉUS settings for *Steinberg Dorico* & *Avid Sibelius*
 
-Thanks to Jérémy Weibel, Claire Maisonobe & Quentin Moret.
+Thanks to Jérémy Weibel, Emile Ayoub, Claire Maisonobe & Quentin Moret.
 
 __Want to help improve these resources?__
 For suggestions, questioning, testing, proofreading, completing, editing, your help is welcome!
