@@ -10,6 +10,8 @@
      - http://www.den4b.com/products/renamer
  - *AutoHotkey* by *AutoHotkey Foundation*:
      - https://www.autohotkey.com/
+ - *Stream Deck* by *elgato* (hardware):
+     - https://elgato.com
 
 ## About the present AHK scripts
 

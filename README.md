@@ -44,6 +44,16 @@ Put these files and folders...
 __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 5`  
 __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 5`
 
+*Mac* users will have to free a few shotcuts by doing the following steps:
+ - go to: System preferences / Keyboard shortcuts / Application shortcuts
+ - select *Dorico*
+ - add these shortcuts to avoid conflicts :
+     - Show Toolbar - Ctrl+Alt+Shift+§
+     - Show Left Zone - Ctrl+Alt+Shift+È
+     - Show Lower Zone - Ctrl+Alt+Shift+!
+     - Right Zone - Ctrl+Alt+Shift+Ç
+     - Hide/Restore Zones - Ctrl+Alt+Shift+À
+
 ## Sibelius
  - Plugin selection:
      - https://github.com/nmalleus/Score_Editors/blob/master/Sibelius/Plugin_Selection.md
