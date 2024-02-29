@@ -71,8 +71,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | ¾ ♯                                    | `Ctrl+Alt+Num 8`        |
 | ¼ ♭                                    | `Ctrl+Alt+Num 6`        |
 | ¾ ♭                                    | `Ctrl+Alt+Num 9`        |
-| On octave higher                       | `Page ↑`                |
-| On octave lower                        | `Page ↓`                |
+| On octave higher                       | `Page ↑` `Ctrl+↑`       |
+| On octave lower                        | `Page ↓` `Ctrl+↓`       |
 | Add interval                           | `Shift+I`               |
 | Chord mode *Dco*                       | `A`                     |
 | 𝅝                                      | `Num 6`                 |
@@ -124,6 +124,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Rehearsal mark                         | `Shift+A`               |
 | Cue                                    | `Shift+U`               |
 | Harp pedaling                          | `Ctrl+H`                |
+| Marker                                 | `Alt+Shift+M`           |
 
 ## Texts
 | Text                                   | Keycommand              |
@@ -134,6 +135,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Lyrics                                 | `Shift+L`               |
 | Chord Symbol                           | `Shift+Q`               |
 | Figured Bass                           | `Shift+G`               |
+| Fingering                              | `Shift+F`               |
 
 ## Selection & Navigation
 | Action                                 | Keycommand              |
@@ -154,7 +156,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Filter downstem voice 1                | `Alt+Shift+2`           |
 | Filter upstem voice 2                  | `Alt+Shift+3`           |
 | Filter downstem voice 2                | `Alt+Shift+4`           |
-| Filter Rests                           | `Alt+Shift+²` *Mac* `Alt+Shift+#`|
+| Filter rests                           | `Alt+Shift+²` *Mac* `Alt+Shift+#`|
+| Filter text                            | `Alt+Shift+X`           |
 
 ## Transformations
 | Action                                 | Keycommand              |
@@ -162,10 +165,15 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Insert mode                            | `Alt+I`                 |
 | Delete                                 | `del` or `suppr`        |
 | Transpose                              | `T`                     |
-| Transpose 1 octave up                  | `Ctrl+↑`                |
-| Transpose 1 octave down                | `Ctrl+↓`                |
+| Transpose 1 octave up                  | `Ctrl+Alt+↑`            |
+| Transpose 1 octave down                | `Ctrl+Alt+↓`            |
+| Shift up / down                        | `Alt+ ↑ ↓`              |
+| Shift up / down (semi-tone)            | `Alt+Shift+ ↑ ↓`        |
 | Respell to flats                       | `Alt+=`                 |
 | Respell to sharps                      | `Alt+-`                 |
+| Reduce element                         | `Alt+Shift+→`           |
+| Extend element                         | `Alt+Shift+←`           |
+| Split                                  | `U`                     |
 | Swap voices                            | `Ctrl+Shift+V`          |
 | Move to upstem voice 1                 | `Alt+1`                 |
 | Move to downstem voice 1               | `Alt+2`                 |
@@ -173,15 +181,11 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Move to downstem voice 2               | `Alt+4`                 |
 | Group dynamics *Dco*                   | `Ctrl+Alt+D`            |
 | Slash selected voice                   | `Alt+Shift+V`           |
-| Shift up / down                        | `Alt+ ↑ ↓`              |
-| Reduce element                         | `Alt+Shift+→`           |
-| Extend element                         | `Alt+Shift+←`           |
 | Change the number of rhythm dots       | `Alt+Shift+.`           |
-| Split                                  | `U`                     |
 | Move to lower staff                    | `M` or `Alt+M`          |
 | Move to upper staff                    | `N` or `Alt+N`          |
 | Flip                                   | `X`                     |
-| Notehead *Sib*                         | `Ctrl+Alt+Shift ² to 9` |
+| Notehead                               | `Ctrl+Alt+Shift ² to 9` |
 | Change color *Sib*                     | `Ctrl+J`                |
 | Apply last color *Sib*                 | `Ctrl+Shift+J`          |
 | Change instrument *Sib*                | `Ctrl+Shift+U`          |
@@ -202,7 +206,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Lock system                            | `Ctrl+Alt+Shift+P`      |
 | Lock frame                             | `Ctrl+Alt+Shift+L`      |
 | Reset staff spacing (frame)            | `Ctrl+Alt+Shift+S`      |
-| Reset space between notes *Sib*        | `Ctrl+Shift+N`          |
+| Reset note spacing (frame)             | `Ctrl+Alt+Shift+N`      |
 | Optimise space between staves *Sib*    | `Ctrl+Alt+Shift+A`      |
 | Graphic edit *Dco*                     | `Ctrl+Alt+Shift+G`      |
 | Note spacing *Dco*                     | `Ctrl+Alt+Shift+J`      |
@@ -219,7 +223,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Show transport                         | `F2`                    |
 | Show mixer                             | `F3`                    |
 | No muted channel *Dco*                 | `Alt+Shift+U`           |
-| No solo channel *Dco*                  | `AltShift+S`            |
+| No solo channel *Dco*                  | `Alt+Shift+S`           |
 
 ## View & Windows
 | Action                                 | Keycommand              |

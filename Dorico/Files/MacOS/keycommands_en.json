@@ -1,0 +1,402 @@
+{
+	"common" : {
+		"contexts" : [
+			
+			{
+				"context" : "kGlobal",
+				"shortcuts" : [
+					
+					{
+						"Edit.CalculateHarpPedal" : [ "Ctrl+H" ]
+					},
+					
+					{
+						"Edit.ChangeVoiceToDownstem1" : [ "Alt+É" ]
+					},
+					
+					{
+						"Edit.ChangeVoiceToDownstem2" : [ "Alt+'" ]
+					},
+					
+					{
+						"Edit.ChangeVoiceToUpstem1" : [ "Alt+&" ]
+					},
+					
+					{
+						"Edit.ChangeVoiceToUpstem2" : [ "Alt+\"" ]
+					},
+					
+					{
+						"Edit.GroupDynamicsTogether" : [ "Ctrl+Alt+D" ]
+					},
+					
+					{
+						"Edit.PasteIntoVoice" : [ "Ctrl+Alt+V" ]
+					},
+					
+					{
+						"Edit.SelectAtEndOfFlow" : [ "Ctrl+Alt+Shift+A" ]
+					},
+					
+					{
+						"Edit.SetGraphicalEditMode" : [ "Ctrl+Alt+Shift+G" ]
+					},
+					
+					{
+						"Edit.SetNoteSpacingEditMode" : [ "Ctrl+Alt+Shift+J" ]
+					},
+					
+					{
+						"Edit.SetStaffSpacingEditMode" : [ "Ctrl+Alt+Shift+K" ]
+					},
+					
+					{
+						"Edit.SingleNoteTremoloOneStroke" : [ "Ctrl+Num+1" ]
+					},
+					
+					{
+						"Edit.SingleNoteTremoloThreeStrokes" : [ "Ctrl+Num+3" ]
+					},
+					
+					{
+						"Edit.SingleNoteTremoloTwoStrokes" : [ "Ctrl+Num+2" ]
+					},
+					
+					{
+						"Edit.SwapVoices" : [ "Ctrl+Shift+V" ]
+					},
+					
+					{
+						"Edit.ToggleLaissezVibrerTie" : [ "B" ]
+					},
+
+					{
+						"Edit.TransposeSelection" : [ "T" ]
+					},
+					
+					{
+						"Filter.NotesInChordsFromBottom3" : [ "Alt+Shift+F4" ]
+					},
+					
+					{
+						"Filter.NotesInChordsFromTop1" : [ "Alt+Shift+F1" ]
+					},
+					
+					{
+						"Filter.NotesInChordsFromTop2" : [ "Alt+Shift+F2" ]
+					},
+					
+					{
+						"Filter.NotesInChordsFromTop3" : [ "Alt+Shift+F3" ]
+					},
+					
+					{
+						"Filter.Rests" : [ "Alt+Shift+@" ]
+					},
+					
+					{
+						"Filter.VoiceDownstem1" : [ "Alt+Shift+É" ]
+					},
+					
+					{
+						"Filter.VoiceDownstem2" : [ "Alt+Shift+'" ]
+					},
+					
+					{
+						"Filter.VoiceUpstem1" : [ "Alt+Shift+&" ]
+					},
+					
+					{
+						"Filter.VoiceUpstem2" : [ "Alt+Shift+\"" ]
+					},
+					
+					{
+						"Edit.SelectNone" : [ "DELETE:Ctrl+D" ]
+					},
+					
+					{
+						"View.ZoomOut" : [ "DELETE:X" ]
+					},
+					
+					{
+						"View.MoveViewportUp" : [ "DELETE:PgUp" ]
+					},
+					
+					{
+						"View.MoveViewportDown" : [ "DELETE:PgDown" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kEngraveMode" : [ "Ctrl+\"", "DELETE:Ctrl+3" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kPlayMode" : [ "Ctrl+'", "DELETE:Ctrl+4" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kWriteMode" : [ "Ctrl+É", "DELETE:Ctrl+2" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kSetupMode" : [ "Ctrl+&", "DELETE:Ctrl+1" ]
+					},
+					
+					{
+						"Window.SwitchMode?WindowMode=kPrintMode" : [ "Ctrl+(", "DELETE:Ctrl+5" ]
+					},
+					
+					{
+						"Window.ShowBottomPanel?=true" : [ "," ]
+					},
+					
+					{
+						"Window.NextLayout" : [ "Ctrl+Shift+<", "DELETE:Shift+Alt+]" ]
+					},
+					
+					{
+						"Window.PreviousLayout" : [ "Ctrl+<" ]
+					},
+					
+					{
+						"Window.ToggleScoreAndPartLayout" : [ "DELETE:W" ]
+					},
+					
+					{
+						"Window.KeyEditorZoomInHorizontal" : [ "DELETE:H" ]
+					}
+				]
+			},
+			
+			{
+				"context" : "kStepTimeInput",
+				"shortcuts" : [
+					
+					{
+						"NoteInput.MoveDownBottom" : [ "DELETE:Ctrl+Down", "DELETE:Ctrl+Num+Down" ]
+					},
+					
+					{
+						"NoteInput.MoveUpTop" : [ "DELETE:Ctrl+Up", "DELETE:Ctrl+Num+Up" ]
+					},
+
+					{
+						"NoteInput.Pitch?Pitch=A" : [ "E", "DELETE:A" ]
+					},
+					
+					{
+						"NoteInput.Pitch?Pitch=B" : [ "R", "DELETE:B" ]
+					},
+					
+					{
+						"NoteInput.Pitch?Pitch=C" : [ "Q", "DELETE:C" ]
+					},
+					
+					{
+						"NoteInput.Pitch?Pitch=D" : [ "S", "DELETE:D" ]
+					},
+					
+					{
+						"NoteInput.Pitch?Pitch=E" : [ "D", "DELETE:E" ]
+					},
+					
+					{
+						"NoteInput.Pitch?Pitch=G" : [ "Z", "DELETE:G" ]
+					}
+				]
+			},
+			
+			{
+				"context" : "kEngraveMode",
+				"shortcuts" : [
+					
+					{
+						"Edit.CreateFrameBreak" : [ "Ctrl+F", "DELETE:Shift+F" ]
+					},
+					
+					{
+						"Edit.CreateSystemBreak" : [ "Ctrl+D" ]
+					},
+					
+					{
+						"Page.MoveBarsToPreviousSystem" : [ "DELETE:," ]
+					}
+				]
+			},
+			
+			{
+				"context" : "kWriteMode",
+				"shortcuts" : [
+					
+					{
+						"NoteInput.OctaveDown" : [ "Ctrl+Num+Down" ]
+					},
+					
+					{
+						"NoteInput.OctaveUp" : [ "Ctrl+Num+Up" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kSemibreve" : [ "Alt+Num+6" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kMinim" : [ "Alt+Num+5" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kCrotchet" : [ "Alt+Num+4" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kQuaver" : [ "Alt+Num+3" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kSemiquaver" : [ "Alt+Num+2" ]
+					},
+					
+					{
+						"NoteInput.SetGridResolution?RhythmicGridResolutionValue=kDemisemiquaver" : [ "Alt+Num+1" ]
+					},
+					
+					{
+						"NoteInput.Enter" : [ "Num+Enter" ]
+					},
+					
+					{
+						"NoteInput.SetArticulation?Value=kTenuto" : [ "Num+-" ]
+					},
+
+					{
+						"NoteInput.SetArticulation?Value=kMarcato" : [ "G", "DELETE:'" ]
+					},
+					
+					{
+						"NoteInput.SetArticulation?Value=kStaccato" : [ "Num+*" ]
+					},
+
+					{
+						"NoteInput.SetArticulation?Value=kStaccatissimo" : [ "Y", "DELETE:}" ]
+					},
+					
+					{
+						"NoteInput.SetArticulation?Value=kStaccatoTenuto" : [ "H" ]
+					},
+					
+					{
+						"NoteInput.SetArticulation?Value=kAccent" : [ "Num+/" ]
+					},
+					
+					{
+						"NoteInput.SetDotted" : [ "Num+," ]
+					},
+					
+					{
+						"NoteInput.RestMode" : [ "DELETE:," ]
+					},
+					
+					{
+						"NoteInput.CreateGraceNote" : [ "C", "DELETE:/" ]
+					},					
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kCrotchet" : [ "Num+4", "DELETE:6" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kMinim" : [ "Num+5", "DELETE:7" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kSemibreve" : [ "Num+6", "DELETE:8" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kQuaver" : [ "Num+3", "DELETE:5" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kSemiQuaver" : [ "Num+2", "DELETE:4" ]
+					},
+					
+					{
+						"NoteInput.NoteValue?LogDuration=kDemiSemiQuaver" : [ "Num+1", "DELETE:3" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kNatural" : [ "Num+7", "DELETE:0" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kSharp" : [ "Num+8", "DELETE:=" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kFlat" : [ "Num+9", "DELETE:-" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kDoubleSharp" : [ "Ctrl+Num+8" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?Type=kDoubleFlat" : [ "Ctrl+Num+9" ]
+					},
+
+					{
+						"NoteInput.SetAccidental?AccidentalDefinitionID=accidental.24et.western.quarter-sharp.stein" : [ "Ctrl+Alt+Num+5" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?AccidentalDefinitionID=accidental.24et.western.quarter-flat.stein" : [ "Ctrl+Alt+Num+6" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?AccidentalDefinitionID=accidental.24et.western.three-quarters-sharp.stein" : [ "Ctrl+Alt+Num+8" ]
+					},
+					
+					{
+						"NoteInput.SetAccidental?AccidentalDefinitionID=accidental.24et.western.three-quarters-flat.stein" : [ "Ctrl+Alt+Num+9" ]
+					},					
+					
+					{
+						"NoteInput.SetAccidental?Type=kNatural" : [ "DELETE:0" ]
+					},
+					
+					{
+						"NoteInput.SlurStart" : [ "W" ]
+					},
+					
+					{
+						"NoteInput.Tie" : [ "Num+0", "DELETE:T" ]
+					},
+					
+					{
+						"NoteInput.CreatePlayingTechnique" : [ "Shift+W", "DELETE:Shift+P" ]
+					}
+				]
+			},
+			
+			{
+				"context" : "kMusicEditable",
+				"shortcuts" : [
+					
+					{
+						"NoteEdit.PitchUpOctave" : [ "PgUp" ]
+					},
+					
+					{
+						"NoteEdit.PitchDownOctave" : [ "PgDown" ]
+					},
+					
+					{
+						"Edit.FlipItem" : [ "X" ]
+					}
+				]
+			}
+		]
+	},
+	"delta" : "true",
+	"version" : "5.1.21"
+}
