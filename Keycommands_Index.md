@@ -54,7 +54,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 ## Note input
 | Input                                  | Keycommand              |
 | -------------------------------------- | ----------------------- |
-| Start input                            | `Num Enter`             |
+| Start input *Dco*                      | `Num Enter`             |
 | A note                                 | `E`                     |
 | B note                                 | `R`                     |
 | C note                                 | `Q`                     |
@@ -90,7 +90,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Next voice                             | `V`                     |
 | New voice *Dco*                        | `Shift+V`               |
 | Paste into voice                       | `Ctrl+Alt+V`            |
-| Grid size                              | `Alt+Num 1 2 3 4 5 6`   |
+| Grid size *Dco*                        | `Alt+Num 1 2 3 4 5 6`   |
 
 ## Complementary inputs
 | Input                                  | Keycommand              |
@@ -110,8 +110,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Line *Sib*                             | `Shift+S`               |
 | Slur                                   | `W`                     |
 | Dynamics                               | `Shift+D`               |
-| Crescendo                              | `Shift+<`               |
-| Decrescendo                            | `<`                     |
+| Crescendo                              | `<`                     |
+| Decrescendo                            | `Shift+<`               |
 | Clef                                   | `Shift+C`               |
 | Key Signature                          | `Shift+K`               |
 | Meter                                  | `Shift+M`               |

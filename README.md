@@ -45,7 +45,7 @@ __Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 5`
 __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 5`
 
 *Mac* users will have to free a few shotcuts by doing the following steps:
- - go to: System preferences / Keyboard shortcuts / Application shortcuts
+ - go to: *System preferences / Keyboard shortcuts / Application shortcuts*
  - select *Dorico*
  - add these shortcuts to avoid conflicts :
      - Show Toolbar - Ctrl+Alt+Shift+§
@@ -53,6 +53,9 @@ __Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 5`
      - Show Lower Zone - Ctrl+Alt+Shift+!
      - Right Zone - Ctrl+Alt+Shift+Ç
      - Hide/Restore Zones - Ctrl+Alt+Shift+À
+     - Hide Dorico - Ctrl+Alt+Shift+H
+ - do to: *System preferences / Keyboards Shortcuts / Launchpad & Dock*
+ - turn off *Dock hiding*
 
 ## Sibelius
  - Plugin selection:
