@@ -73,7 +73,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | ¾ ♭                                    | `Ctrl+Alt+Num 9`        |
 | On octave higher                       | `Page ↑` `Ctrl+↑`       |
 | On octave lower                        | `Page ↓` `Ctrl+↓`       |
-| Add interval                           | `Shift+I`               |
+| Add interval *Dco*                     | `Shift+I`               |
 | Chord mode *Dco*                       | `A`                     |
 | 𝅝                                      | `Num 6`                 |
 | 𝅗𝅥                                      | `Num 5`                 |
@@ -115,8 +115,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Clef                                   | `Shift+C`               |
 | Key Signature                          | `Shift+K`               |
 | Meter                                  | `Shift+M`               |
-| Apply meter only to one staff          | `Alt+Enter`             |
-| Apply clef / octava only to one voice  | `Alt+Enter`             |
+| Apply meter only to one staff *Dco*    | `Alt+Enter`             |
+| Apply clef / octava only to one voice *Dco* | `Alt+Enter`        |
 | Tempo                                  | `Shift+T`               |
 | Bars                                   | `Shift+B`               |
 | Hold                                   | `Shift+H`               |
@@ -162,7 +162,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 ## Transformations
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
-| Insert mode                            | `Alt+I`                 |
+| Insert mode *Dco*                      | `Alt+I`                 |
 | Delete                                 | `del` or `suppr`        |
 | Transpose                              | `T`                     |
 | Transpose 1 octave up                  | `Ctrl+Alt+↑`            |
@@ -171,8 +171,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Shift up / down (semi-tone)            | `Alt+Shift+ ↑ ↓`        |
 | Respell to flats                       | `Alt+=`                 |
 | Respell to sharps                      | `Alt+-`                 |
-| Reduce element                         | `Alt+Shift+→`           |
-| Extend element                         | `Alt+Shift+←`           |
+| Reduce element *Dco*                   | `Alt+Shift+→`           |
+| Extend element *Dco*                   | `Alt+Shift+←`           |
 | Split                                  | `U`                     |
 | Swap voices                            | `Ctrl+Shift+V`          |
 | Move to upstem voice 1                 | `Alt+1`                 |
@@ -198,15 +198,15 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Next layout                            | `Ctrl+>`                |
 | Previous layout                        | `Ctrl+<`                |
 | Close layout *Sib*                     | `Ctrl+W`                |
-| Switch between score & pars *Sib*      | `Ctrl+Alt+W`            |
+| Switch between score & parts *Sib*     | `Ctrl+Alt+W`            |
 | System break                           | `Ctrl+D`                |
 | Frame break                            | `Ctrl+F`                |
 | Make into one system                   | `Ctrl+Alt+Shift+I`      |
 | Make into one frame                    | `Ctrl+Alt+Shift+O`      |
 | Lock system                            | `Ctrl+Alt+Shift+P`      |
 | Lock frame                             | `Ctrl+Alt+Shift+L`      |
-| Reset staff spacing (frame)            | `Ctrl+Alt+Shift+S`      |
-| Reset note spacing (frame)             | `Ctrl+Alt+Shift+N`      |
+| Reset staff spacing (frame) *Dco*      | `Ctrl+Alt+Shift+S`      |
+| Reset note spacing (frame) *Dco*       | `Ctrl+Alt+Shift+N`      |
 | Optimise space between staves *Sib*    | `Ctrl+Alt+Shift+A`      |
 | Graphic edit *Dco*                     | `Ctrl+Alt+Shift+G`      |
 | Note spacing *Dco*                     | `Ctrl+Alt+Shift+J`      |
