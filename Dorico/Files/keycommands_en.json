@@ -55,6 +55,10 @@
 					},
 					
 					{
+						"Edit.ShowAccidentalInParentheses" : [ "Ctrl+Num+7" ]
+					},
+					
+					{
 						"Edit.SingleNoteTremoloOneStroke" : [ "Ctrl+Num+1" ]
 					},
 					
@@ -83,7 +87,7 @@
 					},
 					
 					{
-						"Engrave.ClearLayoutVerticalSpacingAdjustments?SpacingAdjustmentRemovalType=kLayout" : [ "Ctrl+Alt+Shift+S" ]
+						"Engrave.ClearLayoutVerticalSpacingAdjustments?SpacingAdjustmentRemovalType=kSelectedFrames" : [ "Ctrl+Alt+Shift+S" ]
 					},
 					
 					{
@@ -554,7 +558,7 @@
 		]
 	},
 	"delta" : "true",
-	"version" : "5.0.10",
+	"version" : "5.1.21",
 	"windows" : {
 		"contexts" : [
 			
