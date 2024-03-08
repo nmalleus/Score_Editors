@@ -128,19 +128,15 @@ https://www.robobasket.com/
  - Is it possible to unmute/unsolo all chanels in *Sibelius*?
  - Add Page ↑/↓ to octave shift while input on *Sibelius*
  - Macro for * + - on H for *Sibelius*
- - Add "Filter rests" to *Dorico*  with Alt+Shift+²
 
 ### Other updates
  - *senza dim.*, *simile* as dynamic in *Dorico*
- - Shortcut cautionary accidentals
  - List Dorico popovers (fingering, lyrics, chords and playing techniques are missing)
  - Place harp pedaling bellow system
  - Ctrl + Maj : no keyboard change on *Windows*
- - TO DORICO: popover suggestions
  - How to negative bar number in *Dorico*
  - *RoboBasket*: add SATB sorting
  - *RoboBasket*: continue French translation after percussions
- - *Dorico* better exporting tools would be nice
  - *AKH* leave dynamics auto completion on ↑/↓ ?
 
 ## About Nelson

@@ -111,6 +111,10 @@
 					},
 					
 					{
+						"Filter.Rests" : [ "Alt+Shift+²" ]
+					},
+					
+					{
 						"Filter.Text" : [ "Alt+Shift+X" ]
 					},
 					
