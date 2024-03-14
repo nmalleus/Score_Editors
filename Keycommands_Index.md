@@ -187,6 +187,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Move to upper staff                    | `N` or `Alt+N`          |
 | Flip                                   | `X`                     |
 | Notehead                               | `Ctrl+Alt+Shift ² to 9` |
+| Show / hide item                       | `Ctrl+Shift+H`          |
 | Change color *Sib*                     | `Ctrl+J`                |
 | Apply last color *Sib*                 | `Ctrl+Shift+J`          |
 | Change instrument *Sib*                | `Ctrl+Shift+U`          |

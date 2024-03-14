@@ -75,6 +75,10 @@
 					},
 					
 					{
+						"Edit.ToggleHideEvent" : [ "Ctrl+Shift+H" ]
+					},
+					
+					{
 						"Edit.ToggleLaissezVibrerTie" : [ "B" ]
 					},
 					
@@ -252,6 +256,10 @@
 					
 					{
 						"Play.UnMuteAll" : [ "Alt+Shift+U", "DELETE:Alt+U" ]
+					},
+					
+					{
+						"Window.KeyEditorZoomInVertical" : [ "DELETE:Ctrl+Shift+H" ]
 					}
 				]
 			},
