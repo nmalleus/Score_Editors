@@ -2,9 +2,8 @@
 #SingleInstance Force
 
 #HotIf WinActive("ahk_exe dorico5.exe")
-+d::Expand("Dyn") SendInput("D")
-+x::Expand("Tech") SendInput("X")
-+t::Expand("Sign") SendInput("T")
++d::Expand("Dyn")
++t::Expand("Tech")
 #HotIf
 
 Expand(WhichText)
