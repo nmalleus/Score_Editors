@@ -88,6 +88,8 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Acciaccatura                           | `C`                     |
 | Force duration *Dco*                   | `O`                     |
 | Lock duration                          | `L`                     |
+| Fanned beam accel.                     | `$`                     |
+| Fanned beam rall.                      | `£`                     |
 | Next voice                             | `V`                     |
 | New voice *Dco*                        | `Shift+V`               |
 | Paste into voice                       | `Ctrl+Alt+V`            |
