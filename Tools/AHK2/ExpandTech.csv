@@ -1,16 +1,25 @@
 CONDENSED,EXPANDED
-aa,arco
-zz,pizz.
 ww,div.
 xx,unis.
-overp,overpressure
+con s, con sord.
+sen s, senza sord.
+mutb, bicket mute
+mutc, cup mute
+mutha, harmon mute
+muths, harmon mute with stem
+mutehn, harmon mute wihtout stem
+mutp, plunger mute
+muts, straight mute
+aa,arco
 sult,sul tasto
 sulp,sul pont.
+overp,overpressure
 flauta,flautando
 sts,staccatissimo
+zz,pizz.
+bar,bartók pizz.
 colb,col legno battuto
 colt,col legno tratto
-bar,bartók pizz.
 bocca c,bocca chiusa
 esp,espressivo
 senza f,senza forzare
