@@ -3,17 +3,15 @@
 
 #HotIf WinActive("ahk_exe sibelius.exe")
 
-;Text Expander
 +d::Expand("Dyn") SendInput("D")
 +x::Expand("Tech") SendInput("X")
 +t::Expand("Sign") SendInput("T")
 #HotIf
 
 Expand(WhichText)
-{	Static IH
-	If IsSet(IH)
-		IH.Stop(), IH := unset
-	IH := InputHook("V L0 I", "{Esc}")
+{	Static IH := InputHook("V L0 I", "{Esc}")
+	If (IH.InProgress)
+		IH.Stop()
 	IH.OnChar := OnChar
 	IH.Start()
 	Hotkey "~LButton", MouseEnd, "On"
@@ -42,11 +40,11 @@ Expand(WhichText)
 		If !(sCache.Has(File) && sCache.Get(File) == sDefinitions)
 		{
 			sCache.Set(File, sDefinitions)
-			aDefinitions := StrSplit(sDefinitions, "`n", " `t")
+			aDefinitions := StrSplit(sDefinitions, "`n")
 			aDefinitions.RemoveAt(1) ; Skip header
 			Definitions := []
 			For Definition in aDefinitions
-				Definitions.Push(StrSplit(Definition, ",", " `t"))
+				Definitions.Push(StrSplit(Definition, ","))
 			aCache[File] := Definitions
 		}
 		Return aCache[File]
