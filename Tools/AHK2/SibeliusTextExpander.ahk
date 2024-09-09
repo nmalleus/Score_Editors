@@ -5,7 +5,7 @@
 
 +d::Expand("Dyn") SendInput("D")
 +x::Expand("Tech") SendInput("X")
-+t::Expand("Sign") SendInput("T")
++t::Expand("Sign") SendInput("M")
 #HotIf
 
 Expand(WhichText)

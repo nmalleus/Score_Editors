@@ -22,6 +22,8 @@ colb,col legno battuto
 colt,col legno tratto
 bocca c,bocca chiusa
 molto acc,molto accentuato
+poco acc,poco accentuato
+senza acc,senza accentuato
 esp,espressivo
 legg,leggiero
 senza f,senza forzare
