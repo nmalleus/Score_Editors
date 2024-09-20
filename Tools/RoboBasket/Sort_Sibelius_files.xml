@@ -35,6 +35,7 @@
         <con_name_par1>Solo Violin</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Solo Violin Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin Ovd</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violin</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -49,6 +50,7 @@
         <con_name_par1>Solo Violin 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin 1 Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin 1 Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Solo Violin 1 Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin 1 Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin 1 Ovd</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violin 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -63,6 +65,7 @@
         <con_name_par1>Solo Violin 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin 2 Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin 2 Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Solo Violin 2 Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin 2 Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violin 2 Ovd</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violin 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -77,6 +80,7 @@
         <con_name_par1>Solo Viola</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Viola Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Viola Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Solo Viola Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Viola Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Viola Ovd</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Viola</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -91,6 +95,7 @@
         <con_name_par1>Solo Violoncello</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violincello Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violoncello Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Solo Violoncello Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violoncello Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Violoncello Ovd</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violoncello</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -104,6 +109,7 @@
         <rule_title>Solo Contrabass</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Contrabass Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Contrabass Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Solo Contrabass Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Contrabass Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Solo Contrabass Ovd</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Contrabass</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -118,6 +124,7 @@
         <con_name_par1>Violins</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Violins Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins Ovd. 2</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
         <act_sortinto_folder>05_Vl</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
@@ -126,6 +133,7 @@
         <con_name_par1>Violins 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins 1 Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins 1 Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Violins 1 Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins 1 Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins 1 Ovd</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
         <act_sortinto_folder>05_Vl1</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
@@ -135,6 +143,7 @@
         <con_name_par1>Violins 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins 2 Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins 2 Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Violins 2 Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins 2 Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violins 2 Ovd</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
         <act_sortinto_folder>06_Vl2</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
@@ -144,6 +153,7 @@
         <con_name_par1>Violas</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violas Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violas Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Violas Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violas Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violas Ovd</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
         <act_sortinto_folder>07_Vla</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions></rbrule>
@@ -153,6 +163,7 @@
         <con_name_par1>Violoncellos</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violoncellos Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violoncellos Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Violoncellos Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violoncellos Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Violoncellos Ovd</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
         <act_sortinto_folder>08_Vlc</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions></rbrule>
@@ -162,6 +173,7 @@
         <con_name_par1>Contrabasses</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Contrabasses Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Contrabasses Ovd.</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Contrabasses Ovd. 1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Contrabasses Ovd. 2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Contrabasses Ovd</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
         <act_sortinto_folder>09_Ctb</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
