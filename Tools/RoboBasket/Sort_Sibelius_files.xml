@@ -281,6 +281,8 @@
         <con_name_par1>Cowbell</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Wood Block</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Wood Blocks</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Temple Block</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Temple Blocks</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Claves</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Tambourine</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Shaker</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
