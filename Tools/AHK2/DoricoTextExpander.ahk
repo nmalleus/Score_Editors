@@ -4,9 +4,10 @@
 #HotIf WinActive("ahk_exe dorico5.exe")
 
 +d::Expand("Dyn") SendInput("D")
++m::Expand("Sign") SendInput("M")
++o::Expand("Orn") SendInput("O")
 +x::Expand("Tech") SendInput("X")
 +w::Expand("PTech") SendInput("W")
-+m::Expand("Sign") SendInput("M")
 #HotIf
 
 Expand(WhichText)
