@@ -3,6 +3,7 @@
 
 #HotIf WinActive("ahk_exe dorico5.exe")
 
+;+i::Expand("Int") SendInput("I")
 +d::Expand("Dyn") SendInput("D")
 +m::Expand("Sign") SendInput("M")
 +o::Expand("Orn") SendInput("O")
