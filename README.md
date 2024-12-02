@@ -122,12 +122,7 @@ https://www.robobasket.com/
  - Finish *Dorico* popovers
 
 ### Missing shortcuts
- - Erease background
- - Unlink dynamics
- - Colors for *Dorico*
- - Is it possible to unmute/unsolo all chanels in *Sibelius*?
  - Add Page ↑/↓ to octave shift while input on *Sibelius*
- - Macro for * + - on H for *Sibelius*
 
 ### Other updates
  - *senza dim.*, *simile* as dynamic in *Dorico*
