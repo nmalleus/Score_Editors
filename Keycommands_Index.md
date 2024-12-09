@@ -72,6 +72,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | ¼ ♭                                    | `Ctrl+Alt+Num 6`        |
 | ¾ ♭                                    | `Ctrl+Alt+Num 9`        |
 | Bracked accidental                     | `Ctrl+Num 7`            |
+| Toggle accidental visibility           | `Ctrl+Alt+Num 7`        |
 | On octave higher                       | `Page ↑` `Ctrl+↑`       |
 | On octave lower                        | `Page ↓` `Ctrl+↓`       |
 | Add interval *Dco*                     | `Shift+I`               |
