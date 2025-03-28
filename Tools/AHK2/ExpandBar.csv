@@ -4,3 +4,4 @@ d,double
 t,triple
 (,start
 ),end
+r,rest
