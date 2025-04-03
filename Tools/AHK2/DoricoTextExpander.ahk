@@ -8,6 +8,7 @@
 +d::Expand("Dyn") SendInput("D")
 +m::Expand("Sign") SendInput("M")
 +o::Expand("Orn") SendInput("O")
++r::Expand("Rep") SendInput("R")
 +x::Expand("Tech") SendInput("X")
 +w::Expand("PTech") SendInput("W")
 #HotIf
