@@ -125,14 +125,12 @@ https://www.robobasket.com/
  - Add Page ↑/↓ to octave shift while input on *Sibelius*
 
 ### Other updates
- - *senza dim.*, *simile* as dynamic in *Dorico*
+ - *simile* as dynamic in *Dorico*
  - List Dorico popovers (fingering, lyrics, chords and playing techniques are missing)
  - Place harp pedaling bellow system
- - Ctrl + Maj : no keyboard change on *Windows*
  - How to negative bar number in *Dorico*
  - *RoboBasket*: add SATB sorting
  - *RoboBasket*: continue French translation after percussions
- - *AKH* leave dynamics auto completion on ↑/↓ ?
 
 ## About Nelson
 
