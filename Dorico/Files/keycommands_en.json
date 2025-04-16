@@ -7,6 +7,14 @@
 				"shortcuts" : [
 					
 					{
+						"Edit.BeamTogether" : [ "Ctrl+Alt+Shift+," ]
+					},
+					
+					{
+						"Edit.BreakBeam" : [ "Ctrl+Alt+Shift+:" ]
+					},
+					
+					{
 						"Edit.CalculateHarpPedal" : [ "Ctrl+H" ]
 					},
 					
@@ -28,6 +36,10 @@
 					
 					{
 						"Edit.CreateFannedBeamAccelThreeLines" : [ "$" ]
+					},
+					
+					{
+						"Edit.CreateFannedBeamRallThreeLines" : [ "£" ]
 					},
 					
 					{
@@ -71,7 +83,19 @@
 					},
 					
 					{
+						"Edit.SplitBeam" : [ "Ctrl+Alt+Shift+;" ]
+					},
+					
+					{
+						"Edit.SplitSecondaryBeam" : [ "Ctrl+Alt+Shift+!" ]
+					},
+					
+					{
 						"Edit.SwapVoices" : [ "Ctrl+Shift+V" ]
+					},
+					
+					{
+						"Edit.ToggleAccidentalVisibility" : [ "Ctrl+Alt+Num+7" ]
 					},
 					
 					{
@@ -196,6 +220,10 @@
 					
 					{
 						"Edit.SelectNone" : [ "DELETE:Ctrl+D" ]
+					},
+					
+					{
+						"View.ShowSystemTrack" : [ "DELETE:Alt+T" ]
 					},
 					
 					{
@@ -514,6 +542,10 @@
 					
 					{
 						"NoteInput.StartTupletRun" : [ "Num++", "DELETE:;" ]
+					},
+					
+					{
+						"NoteInput.ShowPopoverForTransposingOrAddingNotes" : [ "Num+End" ]
 					}
 				]
 			},
@@ -570,7 +602,7 @@
 		]
 	},
 	"delta" : "true",
-	"version" : "5.1.21",
+	"version" : "5.1.81",
 	"windows" : {
 		"contexts" : [
 			
