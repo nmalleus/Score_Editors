@@ -160,8 +160,12 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Filter downstem voice 1                | `Alt+Shift+2`           |
 | Filter upstem voice 2                  | `Alt+Shift+3`           |
 | Filter downstem voice 2                | `Alt+Shift+4`           |
+| Filter notes and chords                | `Alt+Shift+)`           |
+| Filter tuplets                         | `Alt+Shift++`           |
 | Filter rests                           | `Alt+Shift+²` *Mac* `Alt+Shift+#`|
 | Filter text                            | `Alt+Shift+X`           |
+| Filter select mode                     | `Alt+Shift+A`           |
+| Filter deselect mode                   | `Alt+Shift+Z`           |
 
 ## Transformations
 | Action                                 | Keycommand              |
