@@ -1,7 +1,7 @@
 ﻿#Requires AutoHotkey v2.0
 #SingleInstance Force
 
-#HotIf WinActive("ahk_exe dorico5.exe")
+#HotIf WinActive("ahk_exe dorico6.exe")
 
 ;+i::Expand("Int") SendInput("I")
 +b::Expand("Bar") SendInput("B")
