@@ -127,9 +127,8 @@ https://www.robobasket.com/
 ### Other updates
  - *simile* as dynamic in *Dorico*
  - List Dorico popovers (fingering, lyrics, chords and playing techniques are missing)
- - Place harp pedaling bellow system
  - How to negative bar number in *Dorico*
- - *RoboBasket*: add SATB sorting
+ - *RoboBasket*: continue the underscore edition
  - *RoboBasket*: continue French translation after percussions
 
 ## About Nelson

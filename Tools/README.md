@@ -8,7 +8,7 @@
      - https://michalisnicolaides.com/ultra-pdf-merger-v1-3-has-been-released/
  - *ReNamer Pro* by *den4b*:
      - http://www.den4b.com/products/renamer
- - *AutoHotkey* by *AutoHotkey Foundation*:
+ - *AutoHotkey 2* by *AutoHotkey Foundation*:
      - https://www.autohotkey.com/
  - *Stream Deck* by *elgato* (hardware):
      - https://elgato.com
@@ -18,11 +18,11 @@
 All the files have to be in the same folder to work.
 
  - *Dorico4.ahk*:
-    - Texts expander
-    - Dynamics expander
+    - DoricoTextExpander.ahk
+    - all .csv files but the *Sib.csv
  - *Sibelius.ahk*:
-    - Text expander
-    - Dynamics expander
+    - SibeliusTextExpander.ahk
+    - - all .csv files
     - Going back to the F7 keypad in these cases:
         - `F8` / `4` `5` `6` `7` `8` `9` `/` `*` `-`
         - `F9` / `1` `2` `3` `4` `5`
@@ -30,4 +30,3 @@ All the files have to be in the same folder to work.
 
 *AHK* scripts ideas and issues:
  - `x` does not work to write `fp`
- - leabve auto-completion on mouse click

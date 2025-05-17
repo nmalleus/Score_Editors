@@ -1,5 +1,7 @@
 Automatisations Logic:
  - avoir uniquement la "Main Window"
+ - Beat & Project (PAS le large)
+ - métronome et count in désactivés
  - zone du haut
     - tempo (taille moyenne)
     - signature rythmique (le plus petit possible)
