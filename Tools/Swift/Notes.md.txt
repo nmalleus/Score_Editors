@@ -1,0 +1,21 @@
+Automatisations Logic:
+ - avoir uniquement la "Main Window"
+ - zone du haut
+    - tempo (taille moyenne)
+    - signature rythmique (le plus petit possible)
+    - rien d'autre
+ - masquer "Library" et "Toolbar"
+ - afficher "Inspector"
+ - masquer le panneau à droite
+ - masquer le panneau en bas
+ - afficher la palette de couleur (tout en haut à gauche)
+ - ajuster vue en largeur
+ - mettre toutes les pistes à la même taille (plutôt petites)
+ - supprimer les pistes vides
+ - supprimer les pistes de direct du film (surtout quand elles dépassent)
+ - désactiver les instruments virtuels
+ - joindre les clips MIDI
+    - pas les clips audio
+    - exclure les clips muets
+ - supprimer les notes muettes
+ - tout locker en SMPTE
