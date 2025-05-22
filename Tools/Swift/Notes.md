@@ -21,3 +21,9 @@ Automatisations Logic:
     - exclure les clips muets
  - supprimer les notes muettes
  - tout locker en SMPTE
+ À l'ouverture du panneau du bas:
+ - le link activé en jaune
+ - MIDI : taille de la zone entière ?
+   - automation avec velocité
+ - Score :
+   - No Overlap décoché (lister toutes les cases)
