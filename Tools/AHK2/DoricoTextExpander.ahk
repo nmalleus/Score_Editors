@@ -11,6 +11,7 @@
 +r::Expand("Rep") SendInput("R")
 +x::Expand("Tech") SendInput("X")
 +w::Expand("PTech") SendInput("W")
++t::Expand("Tempo") SendInput("T")
 #HotIf
 
 Expand(WhichText)
