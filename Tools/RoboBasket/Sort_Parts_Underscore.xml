@@ -14,10 +14,10 @@
 <auto_fresh_matchpreview>True</auto_fresh_matchpreview>
 
 <!--Strings-->
-<!--Soloists-->
-<!--Percussions-->
 <!--Woodwinds-->
 <!--Brass-->
+<!--Soloists-->
+<!--Percussions-->
 <!--Voices-->
 
 <rbrules>
@@ -260,134 +260,6 @@
         <act_sortinto_folder>09_Ctb</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
 
-<!--Soloists-->
-
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Harp</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Harp</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Harp_1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Harp_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Harp_Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Harp_Overdub_2</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>10_Hrp</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Piano</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Piano</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Piano_1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Piano_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Piano_Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Piano_Overdub_2</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>11_Pno</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Accordion</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Accordion</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>12_Acc</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Cimbalom</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Cimbalom</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Cymbalom</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>12_Cim</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Keyboards</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Keyboards</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Celesta</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Harpsichord</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Organ</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>12_Keys</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Ondes_Martenot</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Ondes_Martenot</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Ondes</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>12_OMrt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Guitar</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Guitar</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Guitars</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>13_Gtr</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Guitar_1</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Guitar_1</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>13_Gtr1</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Guitar_2</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Guitar_2</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>13_Gtr2</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Bass</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>_Bass</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>14_Bass</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-
-<!--Percussions-->
-
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Drum_Set</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Drum_Set</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Drum_Kit</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Drums</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>15_Drm</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Percussions</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Percussions</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Percussions_1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Percussions_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Percussions_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Percussions_4</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Percussions_5</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Snare_Drum</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Bass_Drum</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Low_Drum</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Taiko</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Stomp</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Kick</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Bongo</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Bongos</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Conga</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Congas</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Cymbals</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Cymbal</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Piatti</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Gong</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Tam-tam</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Triangle</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Mark_Tree</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Cowbell</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Wood_Block</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Wood_Blocks</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Temple_Block</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Temple_Blocks</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Claves</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Tambourine</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Shaker</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Shakers</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Maracas</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Guiro</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Rattle</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Udu</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Glockenspiel</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Vibraphone</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Crotales</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Tubular_Bells</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Xylophone</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Marimba</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>16_Percs</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Timpani</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Timpani</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>17_Tim</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-
 <!--Woodwinds-->
 
     <rbrule><rule_enable>True</rule_enable>
@@ -397,7 +269,7 @@
         <con_name_par1>Piccolo_Pass_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Piccolo_Pass_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Piccolo_Overdub</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>20_PicFlt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+        <act_sortinto_folder>20_Pic</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
     <rbrule><rule_enable>True</rule_enable>
         <rule_title>Alto_Flute</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -406,7 +278,7 @@
         <con_name_par1>Alto_Flute_Pass_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Alto_Flute_Pass_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Alto_Flute_Overdub</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>20_AltFlt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+        <act_sortinto_folder>20_AFlt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
     <rbrule><rule_enable>True</rule_enable>
         <rule_title>Bass_Flute</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -415,7 +287,7 @@
         <con_name_par1>Bass_Flute_Pass_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Bass_Flute_Pass_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Bass_Flute_Overdub</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>20_BasFlt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+        <act_sortinto_folder>20_BFlt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
     <rbrule><rule_enable>True</rule_enable>
         <rule_title>Flute_1</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -459,22 +331,13 @@
         <act_sortinto_folder>24_Flt4</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
     <rbrule><rule_enable>True</rule_enable>
-        <rule_title>Oboe_d-amore</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Oboe_d-amore</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Oboe_d-amore_Pass_1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Oboe_d-amore_Pass_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Oboe_d-amore_Pass_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Oboe_d-amore_Overdub</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>25_ObA</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
-    </rbrule>
-    <rbrule><rule_enable>True</rule_enable>
         <rule_title>Bass_Oboe</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Bass_Oboe</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Bass_Oboe_Pass_1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Bass_Oboe_Pass_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Bass_Oboe_Pass_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Bass_Oboe_Overdub</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>25_OboB</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+        <act_sortinto_folder>25_BObo</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
     <rbrule><rule_enable>True</rule_enable>
         <rule_title>Oboe_1</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -525,9 +388,9 @@
         <con_name_par1>Eb_Clarinet_Pass_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Eb_Clarinet_Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Clarinet_in_Eb</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Clarinet_in_Eb_Pass_1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Clarinet_in_Eb_Pass_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
-        <con_name_par1>Clarinet_in_Eb_Pass_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Clarinet_Pass_1_in_Eb</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Clarinet_Pass_2_in_Eb</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Clarinet_Pass_3_in_Eb</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Clarinet_in_Eb_Overdub</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
         <act_sortinto_folder>30_EbClt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
@@ -556,7 +419,7 @@
         <con_name_par1>Contrabass_Clarinet_Pass_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Contrabass_Clarinet_Pass_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Contrabass_ClarinetoOverdub</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
-        <act_sortinto_folder>30_CtbClt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+        <act_sortinto_folder>30_CbClt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
     <rbrule><rule_enable>True</rule_enable>
         <rule_title>Bass_Clarinet</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
@@ -928,6 +791,134 @@
         <con_name_par1>Tuba_Pass_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
         <con_name_par1>Tuba_Overdub</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
         <act_sortinto_folder>56_Tba</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+
+<!--Soloists-->
+
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Harp</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Harp</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Harp_1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Harp_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Harp_Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Harp_Overdub_2</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>10_Hrp</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Piano</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Piano</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Piano_1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Piano_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Piano_Overdub</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Piano_Overdub_2</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>11_Pno</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Accordion</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Accordion</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>12_Acc</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Cimbalom</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Cimbalom</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Cymbalom</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>12_Cim</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Keyboards</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Keyboards</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Celesta</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Harpsichord</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Organ</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>12_Keys</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Ondes_Martenot</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Ondes_Martenot</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Ondes</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>12_OMrt</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Guitar</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Guitar</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Guitars</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>13_Gtr</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Guitar_1</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Guitar_1</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>13_Gtr1</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Guitar_2</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Guitar_2</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>14_Gtr2</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Bass</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>_Bass</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>15_Bass</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+
+<!--Percussions-->
+
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Drum_Set</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Drum_Set</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Drum_Kit</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Drums</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>16_Drm</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Percussions</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Percussions</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Percussions_1</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Percussions_2</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Percussions_3</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Percussions_4</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Percussions_5</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Snare_Drum</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Bass_Drum</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Low_Drum</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Taiko</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Stomp</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Kick</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Bongo</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Bongos</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Conga</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Congas</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Cymbals</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Cymbal</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Piatti</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Gong</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Tam-tam</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Triangle</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Mark_Tree</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Cowbell</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Wood_Block</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Wood_Blocks</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Temple_Block</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Temple_Blocks</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Claves</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Tambourine</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Shaker</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Shakers</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Maracas</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Guiro</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Rattle</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Udu</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Glockenspiel</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Vibraphone</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Crotales</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Tubular_Bells</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Xylophone</con_name_par1></rbcondition><rbcondition><and_or>Or</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Marimba</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>17_Percs</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
+    </rbrule>
+    <rbrule><rule_enable>True</rule_enable>
+        <rule_title>Timpani</rule_title><rbconditions><rbcondition><and_or>And</and_or><con_ctrl_name>BasicActCon.dll@BasicActCon.NameCon</con_ctrl_name><con_name_compare>ends with</con_name_compare>
+        <con_name_par1>Timpani</con_name_par1></rbcondition></rbconditions><rbactions><rbaction><act_ctrl_name>BasicActCon.dll@BasicActCon.SortintoAct</act_ctrl_name>
+        <act_sortinto_folder>18_Tim</act_sortinto_folder><act_sortinto_exist>auto rename</act_sortinto_exist></rbaction></rbactions>
     </rbrule>
 
 <!--Voices-->
