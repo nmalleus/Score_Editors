@@ -163,6 +163,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Filter notes and chords                | `Alt+Shift+)`           |
 | Filter tuplets                         | `Alt+Shift++`           |
 | Filter rests                           | `Alt+Shift+²` *Mac* `Alt+Shift+#`|
+| Filter slurs                           | `Alt+Shift+S`           |
 | Filter text                            | `Alt+Shift+X`           |
 | Filter select mode                     | `Alt+Shift+A`           |
 | Filter deselect mode                   | `Alt+Shift+Z`           |
@@ -232,7 +233,6 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Show transport                         | `F2`                    |
 | Show mixer                             | `F3`                    |
 | No muted channel *Dco*                 | `Alt+Shift+U`           |
-| No solo channel *Dco*                  | `Alt+Shift+S`           |
 
 ## View & Windows
 | Action                                 | Keycommand              |
