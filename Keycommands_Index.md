@@ -237,9 +237,12 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 ## View & Windows
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
+| Inspect / Properties                   | `,`                     |
+| Hide signposts                         | `Ctrl+Num 0`            |
+| Show signposts                         | `Ctrl+Num .`            |
+| New window                             | `Ctrl+Shift+T`          |
 | Preferences                            | `Ctrl+?`                |
 | Project Info                           | `Ctrl+I`                |
-| Inspect / Properties                   | `,`                     |
 | Engraving options                      | `Ctrl+Shift+E`          |
 | Layout options *Dco*                   | `Ctrl+Shift+L`          |
 | Notation options *Dco*                 | `Ctrl+Shift+N`          |
