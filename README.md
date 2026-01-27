@@ -41,8 +41,8 @@ Put these files and folders...
 
 ... into:
 
-__Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 5`  
-__Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 5`
+__Win__: `C:\Users\USERNAME\AppData\Roaming\Steinberg\Dorico 6`  
+__Mac__: `/Users/username/Library/Application Support/Steinberg/Dorico 6`
 
 *Mac* users will have to free a few shotcuts by doing the following steps:
  - go to: *System preferences / Keyboard shortcuts / Application shortcuts*
