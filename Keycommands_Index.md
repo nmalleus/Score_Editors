@@ -237,6 +237,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 ## View & Windows
 | Action                                 | Keycommand              |
 | -------------------------------------- | ----------------------- |
+| Dorico Jump                            | `J`                     |
 | Inspect / Properties                   | `,`                     |
 | Hide signposts                         | `Ctrl+Num 0`            |
 | Show signposts                         | `Ctrl+Num .`            |
