@@ -8,4 +8,5 @@ pp,tr 2M
 imr,short trill
 inv,short trill
 mr,mordent
+g,gliss
 uu,nonarp
