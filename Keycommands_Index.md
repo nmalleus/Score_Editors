@@ -61,7 +61,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | D note                                 | `S`                     |
 | E note                                 | `D`                     |
 | F note                                 | `F`                     |
-| G note                                 | `G`                     |
+| G note                                 | `Z`                     |
 | ♮                                      | `Num 7`                 |
 | ♯                                      | `Num 8`                 |
 | ♭                                      | `Num 9`                 |
