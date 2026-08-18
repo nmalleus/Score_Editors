@@ -86,6 +86,9 @@
                   "Edit.ToggleLaissezVibrerTie" : [ "B" ]
                },
                {
+                  "Edit.ToggleRoundBracketsForNotehead" : [ "K" ]
+               },
+               {
                   "Edit.TransposeSelection" : [ "T" ]
                },
                {
@@ -476,7 +479,7 @@
       ]
    },
    "delta" : "true",
-   "version" : "6.1.10",
+   "version" : "6.2.30",
    "windows" : {
       "contexts" : [
          {
