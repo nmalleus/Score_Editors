@@ -109,6 +109,7 @@ Name* indicates this key commands only works with Nelson's *AHK* assistant for *
 | Accentuato                             | `Num /`                 |
 | Marcato                                | `G`                     |
 | Laisser Vibrer                         | `B`                     |
+| Bracketed Notehead                     | `K`                     |
 | Symbol *Sib*                           | `Shift+Z`               |
 | Ornament / Line                        | `Shift+O`               |
 | Line *Sib*                             | `Shift+S`               |
